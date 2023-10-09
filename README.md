@@ -237,6 +237,7 @@ A.	Flowchart
 
 
 B.	Use Case Diagram
+
  ![image](https://github.com/Maharani-SH/CoffeeshopWebsite/assets/124522757/cd03ca25-4b5e-49a1-8c9d-636223de480e)
 
 
