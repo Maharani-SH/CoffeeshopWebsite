@@ -67,16 +67,20 @@ Tujuan pembuatan website Coffee Shop antara lain :
 5.	Memudahkan pemilik cafe dalam memahami preferensi pembeli dan mengoptimalkan pengalaman pengguna karena adanya web dapat diketahui jumlah dan perilaku pembeli. Informasi ini dapat digunakan untuk meningkatkan strategi pemasaran dan pengelolaan kafe.
 
 1.2	Konvensi Dokumen
+
 Dokumen SRS ini memiliki fitur istilah-istilah yang mungkin jaang ditemukan oleh pembaca. Pembaca dapat melihatnya di Appendix A (Glossary) untuk daftar dari istilah-istilah dan difinisinya masing-masing.
 
 1.3	Audiens Yang Dituju 
+
 Dokumen ini ditujukan untuk semua orang terutama individu yang mencari tempat nyaman untuk menikmati waktu santai dengan menikmati berbagai jenis kopi dan makanan ringan. Selain itu, orang orang yang ingin memesan makanan dari Coffee Shop dengan cara yang praktis dan cepat ataupun tertarik untuk mendapatkan informasi terbaru tentang promosi, acara khusus, dan produk baru dari Cofee Shop Kopi Asmara. Pembaca yang tertarik dengan Web Kopi Asmara ini dapat membaca lebih lanjut bagian 3 yaitu System Features yang menjelaskan mengenai informasi yang tercantum dalam gambaran umum projek, atau bagian 4 dan 5 yang menjelaskan detail mengenai kebutuhan fungsional dan non fungsional dari web ini.
 
 1.4	Lingkup Produk
+
 Web Coffee Shop Kopi Asmara adalah sebuah website yang berfungsi untuk menyediakan pengalaman pengguna yang intuitif dan efisien bagi para pelanggan untuk memesan makanan dan minuman dari kedai kopi. Software ini didesain dengan tujuan utama memfasilitasi proses pemesanan secara online, memungkinkan pengguna menjelajahi menu, membuat pesanan, memilih opsi pengiriman dan pengambilan barang sendiri, dan melakukan pembayaran. Pengguna dari aplikasi terdiri dari pelanggan yang ingin menikmati produk dari kedai Kopi Asmara dengan cara yang lebih praktis dan cepat.
 Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk memasukkan fitur-fitur tambahan seperti integrasi dengan pembayaran pihak ketiga, pembaruan menu secara berkala, atau pemberian rekomendasi berdasarkan preferensi pelanggan. Tujuannya adalah untuk terus meningkatkan pengalaman pembeli dan meningkatkan efisiensi operasional dari perspektif pelanggan.
 
 1.5	Referensi 
+
 Bahan referensi yang digunakan dalam penyelesaian dokumen ini diambil dari beberapa buku seperti : 
 Software Engineering: A Practitioner’s Approach, 7th International edition, Roger Pressman, 2009
 IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998.
@@ -138,6 +142,7 @@ Dependensi:
 3.	Persyaratan Antarmuka
 
 3.1	Antarmuka Pengguna
+
 Situs web Kopi Asmara ini menawarkan antarmuka pengguna yang ramah dan intuitif. Navigasi yang mudah digunakan memungkinkan pengguna beralih antara halaman dengan lancar, sementara palet warna yang netral memberikan tampilan yang menyenangkan tanpa terlalu mencolok. Tipografi yang jelas dan gambar berkualitas tinggi digunakan untuk memastikan informasi ditampilkan dengan baik. Situs ini juga responsif, memastikan pengalaman yang konsisten di berbagai perangkat, dan penggunaan ikon yang jelas membantu memandu pengguna dengan cepat dan mudah.
 
 3.2	Antarmuka Perangkat Keras
@@ -149,6 +154,7 @@ Adapun antarmuka perangkat keras yang digunakan untuk mengakses website Daysee a
 - Mouse / trackpad : Untuk mempermudah navigasi pengguna.
    
 3.3	Antarmuka Perangkat Lunak
+
 A. Tampilan Home
 Pada tampilan awal, pengguna akan dihadapkan pada tampilan Home yang didalamnya terlihat juga fitur dari web ini. Terdapat About Us, Our Menu, dan Contact. Terdapat juga fitur untuk memesan produk dari Kopi Asmara dengan meng-klik Order Now.
  
