@@ -155,15 +155,19 @@ Adapun antarmuka perangkat keras yang digunakan untuk mengakses website Daysee a
 3.3	Antarmuka Perangkat Lunak
 
 A. Tampilan Home
+
 Pada tampilan awal, pengguna akan dihadapkan pada tampilan Home yang didalamnya terlihat juga fitur dari web ini. Terdapat About Us, Our Menu, dan Contact. Terdapat juga fitur untuk memesan produk dari Kopi Asmara dengan meng-klik Order Now.
  
 B. Tampilan About Us
+
 About Us ini menampilkan informasi mengenai alasan memilih kedai Kopi Asmara.
  
 C. Tampilan Our Menu
+
 Pada tampilan Our Menu, terdapat daftar menu yang dijual di kedai Kopi Asmara dengan menampilkan gambar, nama produk, dan juga harga. 
 
 D. Tampilan Contact
+
 Untuk informasi lebih lanjut, terdapat Contact yang dapat dihubungi oleh pembeli apabila mempunyai beberapa pertanyaan. Disini juga terdapat peta yang menampilkan alamat dari kedai Kopi Asmara.
  
 3.4 Antarmuka Komunikasi
@@ -173,15 +177,25 @@ Website Coffee Shop ini membutuhkan laptop, PC, tablet atau smartphone yang terh
 4.	Fitur Sistem
 
 4.1	Deskripsi dan Prioritas
+
 4.1.1	Fitur Menu “Home”
-Fitur menu home merupakan fitur utama pada Website Coffee Shop. Dengan fitur ini, customer dapat melihat beberapa tampilan awal, seperti rekomendasi produk yang sangat unik dan produk terfavorit. Pada tampilan beranda juga ada beberapa pilihan kategori untuk customer..
+
+Fitur menu home merupakan fitur utama pada Website Coffee Shop. Dengan fitur ini, customer dapat melihat beberapa tampilan awal, seperti rekomendasi produk yang sangat unik dan produk terfavorit. Pada tampilan beranda juga ada beberapa pilihan kategori untuk customer.
+
 4.1.2	Fitur Menu “About Us”
+
 Fitur menu about us ini bertujuan untuk membuat customer lebih mengenal mengenai Coffee Shop Kopi Asmara ini. Pada laman ini akan terdapat sejarah singkat berdirinya Kopi Asmara. 
+
 4.1.3	Fitur Menu “Ours Menu”
+
 Fitur ours menu ini berisikan menu-menu yang ada pada coffeeshop ini. Selain menu juga terdapat harga dan deskripsi singkat mengenai setiap menu. Pada laman ini customer juga dapat menemukan rekomendasi menu terfavorit dan paling populer bagi customer sebelumnya. 
+
 4.1.4	Fitur Menu Checkout
+
 Fitur Menu Checkout merupakan fitur menu dimana customer akan dapat memesan produk secara online. Pesanan tersebut akan dimasukan keranjang terlebih dahulu. Setelah memilih jenis pembayaran, mengecek pesanan, dan konfirmasi alamat pengiriman maka customer baru bisa meng-order pesanan tersebut.
+
 4.1.5	Fitur Menu Contact
+
 Fitur menu contact akan terdapat kontak maupun media sosial pribadi Kopi Asmara sehingga memudahkan Kopi Asmara untuk dapat berinteraksi dengan banyak calon customer.
 
 4.2	Fitur Sistem 
@@ -193,6 +207,7 @@ Fitur menu contact akan terdapat kontak maupun media sosial pribadi Kopi Asmara 
 5.1	Persyaratan Performa
 
 Persyaratan hardware dan software :
+
 1.	Minimum windows 7 atau lebih
 2.	Google chrome atau browser versi terbaru
 3.	Akses internet
@@ -200,7 +215,8 @@ Persyaratan hardware dan software :
 5.2	Persyaratan Keamanan Pengguna
 
 1.	Data diri dan password pengguna terjamin keamanannya karena tidak bisa diakses oleh sembarang orang dan password sudah di enkripsi.
-2.	Transaksi pembayaran menggunakan mitra pembayaran pihak kedua seperti dana, ovo, spay, gopay. 
+2.	Transaksi pembayaran menggunakan mitra pembayaran pihak kedua seperti dana, ovo, spay, gopay.
+3.	
 5.3	Persyaratan Keamanan Website
 
 1.	Website sudah menggunakan domain .com dan SSL sebagai sertifikasi keamanan website agar tidak mudah diretas oleh pihak yang tidak bertanggung jawab.
@@ -213,7 +229,8 @@ Persyaratan hardware dan software :
 
 
 
-6.	Persyaratan Lainnya 
+6.	Persyaratan Lainnya
+7.	
 Lampiran A : Glosarium
 
 
@@ -279,4 +296,5 @@ C.	Data Flow Diagram
  
  
 Lampiran C : Daftar Fitur Yang Akan Ditentukan
+
 Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website daysee, antara lain yaitu pembuatan IP agar website Daysee agar dapat digunakan pada aplikasi mobile, dan membuat Daysee menjadi aplikasi yang dapat digunakan pada android.
