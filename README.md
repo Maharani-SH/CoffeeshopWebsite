@@ -61,10 +61,9 @@ Optimisasi Website	-	Perbaikan CSS Pada Website	1.0.1
 
 Tujuan pembuatan website Coffee Shop antara lain :
 1.	Memungkinkan pembeli untuk mengakses informasi dengan mudah mengenai kafe, seperti menu, lokasi, dan jam operasional tanpa harus datang ke kafe.
-2.	Memudahkan proses transaksi karena pembeli dapat melakukan pemesanan secara online yang dapat meningkatkan efisiensi dan kenyamanan.
-3.	Memungkinkan kafe untuk berbagi promosi, diskon, menu baru secara 		lebih cepat yang dapat meningkatkan minat dan partisipasi pembeli.
-4.	Meningkatkan jangkauan pasar karena website dapat dilihat oleh pembeli dari berbagai tempat tidak hanya oleh orang yang berada di sekitar kafe.
-5.	Memudahkan pemilik cafe dalam memahami preferensi pembeli dan mengoptimalkan pengalaman pengguna karena adanya web dapat diketahui jumlah dan perilaku pembeli. Informasi ini dapat digunakan untuk meningkatkan strategi pemasaran dan pengelolaan kafe.
+2.	Memungkinkan kafe untuk berbagi promosi, diskon, menu baru secara 		lebih cepat yang dapat meningkatkan minat dan partisipasi pembeli.
+3.	Meningkatkan jangkauan pasar karena website dapat dilihat oleh pembeli dari berbagai tempat tidak hanya oleh orang yang berada di sekitar kafe.
+4.	Memudahkan pemilik cafe dalam memahami preferensi pembeli dan mengoptimalkan pengalaman pengguna karena adanya web dapat diketahui jumlah dan perilaku pembeli. Informasi ini dapat digunakan untuk meningkatkan strategi pemasaran dan pengelolaan kafe.
 
 1.2	Konvensi Dokumen
 
