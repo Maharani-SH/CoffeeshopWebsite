@@ -87,12 +87,15 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 2.	Deskripsi Keseluruhan
 
 2.1	Perspektif Produk
+
 	Website Coffe Shop ini merupakan platform website online yang dirancang untuk melakukan pembelian kopi secara online pada halaman web melalui smartphone, tablet atauPC yang terkoneksi dengan internet. Website Coffe Shop ini memiliki katalog yang menampilkan beberapa menu kopi yang dapat ditambahkan kedalam keranjang dan dapat dipesan secara online via website. Sehingga dengan adanya Website Coffe Shop ini diharapkan mampu mempermudah pelanggan untuk melakukan pemesanan serta meningkatkan penjualan.
 
 2.2	Fungsi Produk
+
 	Website ini digunakan untuk mempermudah customer/pelanggan dalam melakukan pembelian dan pemesanan menu yang ada pada website coffe shop kami.
 
 2.3	Kelas dan Karakteristik Pengguna
+
 	Karakteristik dari pengguna website coffe shop adalah sebagai berikut:
 a.	Admin: Mengelola pesanan, komunikasi dengan pelanggan, mengelola masalah, dan menganalisis data.
 b.	Customer: Membuat pesanan, melakukan pembayaran dan konfirmasi, memantau status pesanan.
@@ -131,6 +134,7 @@ lunak yang dispesifikasikan. Ada berbagai macam antarmuka eksternal, antara lain
 
 
 2.7	Asumsi dan Dependensi
+
 Asumsi:
 Asumsi - asumsi pada Website Coffe Shop adalah sebagai berikut:
 a.	Admin dapat mengelola dan melihat sistem secara keseluruhan termasuk mengelola administrasi dan manajemen website coffe shop tidak memiliki wewenang untuk mengubah data data pemesanan dan pembayaran.
@@ -199,6 +203,7 @@ Fitur Menu Checkout merupakan fitur menu dimana customer akan dapat memesan prod
 Fitur menu contact akan terdapat kontak maupun media sosial pribadi Kopi Asmara sehingga memudahkan Kopi Asmara untuk dapat berinteraksi dengan banyak calon customer.
 
 4.2	Fitur Sistem 
+
 4.3	Persyaratan Fungsional
 
 
@@ -216,21 +221,20 @@ Persyaratan hardware dan software :
 
 1.	Data diri dan password pengguna terjamin keamanannya karena tidak bisa diakses oleh sembarang orang dan password sudah di enkripsi.
 2.	Transaksi pembayaran menggunakan mitra pembayaran pihak kedua seperti dana, ovo, spay, gopay.
-3.	
+
 5.3	Persyaratan Keamanan Website
 
 1.	Website sudah menggunakan domain .com dan SSL sebagai sertifikasi keamanan website agar tidak mudah diretas oleh pihak yang tidak bertanggung jawab.
 2.	Karena transaksi menggunakan pihak kedua yaitu ovo, dana, spay, gopay, dan m-banking maka proses transaksi terjamin keamanannya.
 
 5.4	Atribut Kualitas Perangkat Lunak
- 
 
 5.5	Proses Bisnis
 
 
 
 6.	Persyaratan Lainnya
-7.	
+   	
 Lampiran A : Glosarium
 
 
