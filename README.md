@@ -88,15 +88,15 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 
 2.1	Perspektif Produk
 
-	Website Coffe Shop ini merupakan platform website online yang dirancang untuk melakukan pembelian kopi secara online pada halaman web melalui smartphone, tablet atauPC yang terkoneksi dengan internet. Website Coffe Shop ini memiliki katalog yang menampilkan beberapa menu kopi yang dapat ditambahkan kedalam keranjang dan dapat dipesan secara online via website. Sehingga dengan adanya Website Coffe Shop ini diharapkan mampu mempermudah pelanggan untuk melakukan pemesanan serta meningkatkan penjualan.
+Website Coffe Shop ini merupakan platform website online yang dirancang untuk melakukan pembelian kopi secara online pada halaman web melalui smartphone, tablet atauPC yang terkoneksi dengan internet. Website Coffe Shop ini memiliki katalog yang menampilkan beberapa menu kopi yang dapat ditambahkan kedalam keranjang dan dapat dipesan secara online via website. Sehingga dengan adanya Website Coffe Shop ini diharapkan mampu mempermudah pelanggan untuk melakukan pemesanan serta meningkatkan penjualan.
 
 2.2	Fungsi Produk
 
-	Website ini digunakan untuk mempermudah customer/pelanggan dalam melakukan pembelian dan pemesanan menu yang ada pada website coffe shop kami.
+Website ini digunakan untuk mempermudah customer/pelanggan dalam melakukan pembelian dan pemesanan menu yang ada pada website coffe shop kami.
 
 2.3	Kelas dan Karakteristik Pengguna
 
-	Karakteristik dari pengguna website coffe shop adalah sebagai berikut:
+Karakteristik dari pengguna website coffe shop adalah sebagai berikut:
 a.	Admin: Mengelola pesanan, komunikasi dengan pelanggan, mengelola masalah, dan menganalisis data.
 b.	Customer: Membuat pesanan, melakukan pembayaran dan konfirmasi, memantau status pesanan.
  
@@ -121,16 +121,16 @@ Software Pengembangan
 SRS ini dibagi menjadi beberapa bagian, yaitu :
 1.	Pendahuluan yang berisi gambaran umum dari seluruh dokumen SRS. Pendahuluan
 SRS berisikan bagian-bagian berikut:
-●	Tujuan Penulisan Dokumen
-●	Konvensi Dokumen
-●	Pembaca yang Dituju
-●	Lingkup Produk
-●	Referensi 
-2.	Deskripsi umum perangkat lunak yang berisi penjelasan perangkat lunak secara umum. Dijelaskan melalui deskripsi umum sistem, fungsi produk, karakteristik pengguna, batasan, lingkungan operasi.
-3.	Kebutuhan Antarmuka Eksternal merincikan deskripsi masukan dan keluaran perangkat
+- Tujuan Penulisan Dokumen
+- Konvensi Dokumen
+- Pembaca yang Dituju
+- Lingkup Produk
+- Referensi 
+3.	Deskripsi umum perangkat lunak yang berisi penjelasan perangkat lunak secara umum. Dijelaskan melalui deskripsi umum sistem, fungsi produk, karakteristik pengguna, batasan, lingkungan operasi.
+4.	Kebutuhan Antarmuka Eksternal merincikan deskripsi masukan dan keluaran perangkat
 lunak yang dispesifikasikan. Ada berbagai macam antarmuka eksternal, antara lain : antarmuka pengguna, antarmuka perangkat keras, antarmuka perangkat keras, antarmuka komunikasi.
-4.	Fungsi Produk berisi fungsi utama dari perangkat lunak.
-5.	Kebutuhan Non Fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat lunak
+5.	Fungsi Produk berisi fungsi utama dari perangkat lunak.
+6.	Kebutuhan Non Fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat lunak
 
 
 2.7	Asumsi dan Dependensi
@@ -161,22 +161,25 @@ Adapun antarmuka perangkat keras yang digunakan untuk mengakses website Daysee a
 A. Tampilan Home
 
 Pada tampilan awal, pengguna akan dihadapkan pada tampilan Home yang didalamnya terlihat juga fitur dari web ini. Terdapat About Us, Our Menu, dan Contact. Terdapat juga fitur untuk memesan produk dari Kopi Asmara dengan meng-klik Order Now.
-![pic1](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/938b0c22-e3a3-493a-9fde-2976c1b95642)
+![pic1](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/0be94c5f-c51e-466e-97cc-e4ea9ef8ed02)
 
 B. Tampilan About Us
 
 About Us ini menampilkan informasi mengenai alasan memilih kedai Kopi Asmara.
-![pic2](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/bf3660b1-f9d4-4bd8-ad91-eb39e66c40ca)
+
+![pic2](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/129adb5e-089e-49df-8bd8-6d3989fa6652)
 
 C. Tampilan Our Menu
 
 Pada tampilan Our Menu, terdapat daftar menu yang dijual di kedai Kopi Asmara dengan menampilkan gambar, nama produk, dan juga harga. 
-![pic3](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/18453615-372a-45d1-b1c2-5f35773b86a3)
+
+![pic3](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/9e84988f-21d9-49ec-8e39-dfb429032e55)
 
 D. Tampilan Contact
 
 Untuk informasi lebih lanjut, terdapat Contact yang dapat dihubungi oleh pembeli apabila mempunyai beberapa pertanyaan. Disini juga terdapat peta yang menampilkan alamat dari kedai Kopi Asmara.
-![pic4](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/6cef4dd4-7444-45d5-b5af-8d5761c26b94)
+
+![pic4](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/c5c6cc41-27af-41b0-8f92-ac65d929d6eb)
 
 3.4 Antarmuka Komunikasi
 
