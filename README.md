@@ -161,19 +161,23 @@ Adapun antarmuka perangkat keras yang digunakan untuk mengakses website Daysee a
 A. Tampilan Home
 
 Pada tampilan awal, pengguna akan dihadapkan pada tampilan Home yang didalamnya terlihat juga fitur dari web ini. Terdapat About Us, Our Menu, dan Contact. Terdapat juga fitur untuk memesan produk dari Kopi Asmara dengan meng-klik Order Now.
- 
+![pic1](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/938b0c22-e3a3-493a-9fde-2976c1b95642)
+
 B. Tampilan About Us
 
 About Us ini menampilkan informasi mengenai alasan memilih kedai Kopi Asmara.
- 
+![pic2](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/bf3660b1-f9d4-4bd8-ad91-eb39e66c40ca)
+
 C. Tampilan Our Menu
 
 Pada tampilan Our Menu, terdapat daftar menu yang dijual di kedai Kopi Asmara dengan menampilkan gambar, nama produk, dan juga harga. 
+![pic3](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/18453615-372a-45d1-b1c2-5f35773b86a3)
 
 D. Tampilan Contact
 
 Untuk informasi lebih lanjut, terdapat Contact yang dapat dihubungi oleh pembeli apabila mempunyai beberapa pertanyaan. Disini juga terdapat peta yang menampilkan alamat dari kedai Kopi Asmara.
- 
+![pic4](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/6cef4dd4-7444-45d5-b5af-8d5761c26b94)
+
 3.4 Antarmuka Komunikasi
 
 Website Coffee Shop ini membutuhkan laptop, PC, tablet atau smartphone yang terhubung ke jaringan internet untuk beroperasi dengan baik. TCP/IP digunakan sebagai standar komunikasi data yang dipakai dalam proses tukar menukar data antar perangkat yang terhubung dalam jaringan.
