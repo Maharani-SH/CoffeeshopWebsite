@@ -5,8 +5,6 @@
 <h2>Untuk</h2>
 <h1>Website E-Commerce Coffee Shop</h1>
 
-</div>
-
 Versi 1.0 Disetujui
 
 
@@ -23,6 +21,8 @@ D4 Manajemen Informatika
 Fakultas Vokasi 
 Universitas Negeri Surabaya
 2023 
+
+</div>
 
 Daftar Isi
 1. Pengantar
