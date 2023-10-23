@@ -313,17 +313,36 @@ Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website
  8. Penjelasan CSS
 
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/d31df2c8-dc7a-43d9-8f62-c1ea844b4589)
+
 :root adalah pseudo-class yang mengacu pada elemen root dari dokumen HTML, yaitu <html>. Dalam CSS, :root digunakan untuk mendefinisikan variabel CSS global seperti --primary (warna utama) yang disini menggunakan kode heksa (ditandai dengan tanda pagar) sehingga memberikan warna biru dan --bg (warna background) yang juga menggunakan kode heksa berwarna hitam tua. Variabel ini bisa digunakan di seluruh halaman web untuk mengontrol properti seperti warna, latar belakang, dan lainnya.
 
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/ddca2f65-86fc-4414-b19a-d05262c83a6f)
+
 Kode * dalam CSS adalah selektor universal, yang berarti memilih semua elemen di halaman web. Didalamnya terdapat beberapa property seperti margin, padding, box-sizing, outline, border, dan text-decoration. Terdapat margin: 0 untuk menghapus margin (ruang kosong) di sekitar elemen, sehingga elemen akan mulai tepat dari tepi kontainer induknya, padding: 0 untuk menghapus padding (ruang di dalam elemen) sehingga konten elemen akan mulai dari tepi elemen itu sendiri, box-sizing: border-box untuk menentukan cara browser menghitung lebar dan tinggi elemen, sehingga termasuk padding dan border dalam pengukuran total, bukan menambahkannya. Selanjutnya ada outline: none untuk menghilangkan garis luar (outline) yang muncul saat elemen mendapatkan fokus, border: none untuk menghapus semua border dari elemen, text-decoration: none untuk menghapus dekorasi teks seperti garis bawah pada tautan.
 
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/669786fd-5a73-4c0c-8ca6-18fad7f978a2)
+
 html { scroll-behavior: smooth; } adalah aturan CSS yang mengubah perilaku scroll pada elemen <html> di halaman web. Dengan pengaturan ini, ketika pengguna mengklik tautan di halaman web, halaman akan menggulir ke bagian yang dituju dengan gerakan yang lebih halus dan tidak terlalu tiba-tiba.
 
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/6171011c-c2f4-4848-a29e-8fbd40c86945)
+
 Body adalah selektor yang memilih elemen <body> dalam dokumen HTML. Didalamnya terdapat font-family yang mengatur jenis font untuk digunakan di selutuh web menggunakan Poppins, jika tidak tersedia maka akan menggunakan sans-serif. Selanjutnya background-color yang mengatur latar belakang untuk <body>, disini kami menggunakan sesuai background yang sudah didefinisikan sebelumnya yaitu warna hitam. Kemudian color: #fff yang mengatur warna teks di dalam body menjadi putih. Terakhir min-height: 2200px yang menentukan tinggi minimum untuk memastikan konten halaman dapat ditampilkan dengan baik tanpa harus menggulir terlalu jauh.
 
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/e7798f14-3516-4b11-82f1-932772fd449a)
+
 Kode CSS tersebut adalah aturan untuk elemen dengan kelas navbar. .navbar adalah selektor untuk elemen dengan kelas navbar, didalamnya terdapat display: flex yang mengatur elemen navbar untuk menggunakan model tata letak flexbox, justify-content: space-between untuk mengatur ruang di sekitar elemen di dalam navbar agar terdistribusi secara merata, sehingga elemen akan berada di sebelah kiri dan kanan, align-items: center yang mengatur elemen di dalam navbar agar berada di tengah secara vertical. 
 Selanjutnya terdapat padding: 1.4rem 7% yang memberi jarak sekitar elemen navbar, background-color: rgb(1, 1, 1, 0.8) untuk menentukan warna latar belakang dengan nilai rgba yang hampir hitam, sehingga sedikit transparan. border-bottom: 1px solid #1082a8 untuk menambahkan garis bawah dengan warna biru, position: fixed untuk mengunci elemen navbar di tempatnya, sehingga tetap berada di atas bahkan saat pengguna menggulir halaman, top: 0; left: 0; right: 0 untuk menempatkan elemen navbar di seluruh lebar halaman, z-index: 9999 untuk mengatur tumpukan z-indeks, sehingga elemen "navbar" akan selalu berada di atas elemen lainnya.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/d446e378-755c-4014-bbdf-5cbc7aac15fa)
+
+.navbar .navbar-logo span adalah selector CSS yang memilih elemen <span> yang berada di dalam elemen dengan kelas navbar-logo yang sendiri berada di dalam elemen dengan kelas navbar, color: var(--primary) untuk mengatur warna teks dari elemen <span> menjadi nilai dari variabel CSS --primary yang telah didefinisikan sebelumnya.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/3b8cc736-9d34-4f9b-8d69-68933047f0c8)
+
+Kode CSS .navbar .navbar-nav a adalah selector CSS yang memilih elemen <a> yang berada di dalam elemen dengan kelas navbar-nav yang sendiri berada di dalam elemen dengan kelas navbar. color: #fff yang mengatur warna teks dari elemen <a> menjadi putih, display: inline-block yang mengatur elemen <a> untuk ditampilkan sebagai blok yang memungkinkan pengaturan margin, padding, dan dimensi lainnya, font-size yang menetapkan ukuran font sebesar 1.3 rem, margin: 0 1rem untuk mengatur margin pada sisi kanan dan kiri dari elemen <a>, dengan nol di atas dan bawahnya. Ini memberikan jarak horizontal antar tautan pada navbar.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/e5b5d22d-8aa1-4a49-a7ce-ce38fcf25910)
+
+.navbar .navbar-nav a:hover adalah selector CSS yang memilih elemen <a> ketika pengguna melakukan hover (mengarahkan kursor mouse ke atasnya) yang berada di dalam elemen dengan kelas navbar-nav yang sendiri berada di dalam elemen dengan kelas navbar. color: var(--primary) maksudnya ketika elemen <a> dalam navbar-nav di-hover, warna teks akan diubah menjadi nilai dari variabel CSS –primary.
+
+
