@@ -393,7 +393,11 @@ class=“navbar-logo” digunakan untuk menulis atribut kelas yang digunakan ole
 
 div merupakan pengelompokan elemen di dalam HTML dari class yang sudah dibuat dimana elemen yang dikelompokan ini adalah “navbar-nav”.
 
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/3d1dba2d-f2bb-4be9-bd17-d77d1d3ee45b)
+
 i merupakan tag pada html untuk menampilkan ikon yang digunakan yang di dalam css termasuk kelas search.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/f0bbada5-d776-4547-8526-801485776dc5)
 
 Merupakan elemen input dengan atribut ‘text’ dan kelas ‘input’ dimana berfungsi untuk menuliskan teks ‘search’ di dalam kotak input yang akan dibuat.
 
