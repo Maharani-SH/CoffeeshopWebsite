@@ -8,7 +8,8 @@ Coffee Shop
 Versi 1.0 Disetujui
 
 
-Disusun Oleh : Intan Rachmalia Dewi (22091397021) 
+Disusun Oleh : 
+Intan Rachmalia Dewi (22091397021) 
 Frida Nur Cahyani (22091397036) 
 Maharani Sekar Hapsari (22091397037)
 
@@ -47,6 +48,8 @@ Daftar Isi
 5.4	Atribut Kualitas Perangkat Lunak	13
 5.5	Proses Bisnis	14
 6.	Persyaratan Lainnya	14
+7.	Penjelasan HTML
+8.	Penjelasan CSS
 
  
 Riwayat Perubahan
