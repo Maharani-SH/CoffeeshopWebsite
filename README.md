@@ -393,6 +393,8 @@ class=“navbar-logo” digunakan untuk menulis atribut kelas yang digunakan ole
 
 div merupakan pengelompokan elemen di dalam HTML dari class yang sudah dibuat dimana elemen yang dikelompokan ini adalah “navbar-nav”.
 
+<i class data-feather="search"></i>
+
 8. Penjelasan CSS
 
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/d31df2c8-dc7a-43d9-8f62-c1ea844b4589)
