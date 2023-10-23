@@ -7,6 +7,8 @@ Untuk
 Website E-Commerce 
 Coffee Shop 
 
+</div>
+
 Versi 1.0 Disetujui
 
 
