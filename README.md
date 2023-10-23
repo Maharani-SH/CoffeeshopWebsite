@@ -381,4 +381,26 @@ Kode CSS ini adalah aturan yang berlaku untuk elemen <h1> yang berada di kelas c
 
 Kode CSS .hero .content h1 span untuk memilih elemen <span> yang berada pada <h1>, h1 berada pada kelas content, sedangkan content berada pada kelas hero. Color untuk mengatur warna teks, disini menggunakan warna primary atau biru.
 
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/80b32923-5ec9-4850-a4b7-c1026d6d3772)
 
+Kode .hero .content p adalah aturan yang berlaku untuk elemen p, elemen p ada di kelas content, content berada di kelas hero. Font-size menetapkan ukuran font sebesar 1.6rem, margin-top untuk menetapkan jarak dari atas elemen sebesar 1 rem, line-height untuk menetapkan tinggi garis (line-height) sebesar 1.4, font-weight untuk memberikan efek tebal pada huruf, text-shadow memberikan bayagan pada huruf, offset horizontal 1 piksel, offset vertikal 1 piksel, dan radius bayangan 3 piksel. Bayangan ini memiliki warna gelap dengan tingkat transparansi sebesar 0.5. mix-blend-mode : different artinya dapat menciptakan efek warna tergantung pada latar belakangnya.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/8e11640a-9fcd-41db-a42d-b1e611953fbb)
+
+Kode .hero .content .cta berlaku untuk elemen kelas .cta. margin-top menetapkan jarak dari atas elemen sebesar 1 rem, display untuk mengatur elemen cta agar ditampilkan sebagai blok yang memungkinkan pengaturan margin, padding, dan dimensi lainnya. Padding untuk menetapkan ruang di dalam elemen dengan 1rem atas bawah, 3rem kanan kiri. Font-size untuk menentukan ukuran sebesar 1.4rem, color agar tulisan menjadi putih, background-color agar warna latar belakang berwaran sesuai warna primary, border-radius memberikan efek pada bagian sudut agar tidak terlalu kotak, box-shadow untuk memberikan bayangan.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/5f1f7a13-0020-4039-9ea0-2d38a8386292)
+
+.about .menu .contact artinya kode didalamnya berlaku untuk kelas about, menu, dan contact. Padding untuk menetapkan ruang di sekitar konten dengan 8 rem di atas dan bawah, 7% dari lebar elemen di sisi kanan dan kiri, serta 1.4 rem di bawah.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/139ea3dd-6eb3-49fe-b144-c5dfc31f764b)
+
+Sama seperti sebelumnya ini berlaku pada kelas about, menu, dan contact tetapi pada elemen <h2>. Text-align untuk mengatur teks dalam h2 menjadi rata tengah (center), font-size untuk ukuran huruf sebesar 2.6rem,  margin-bottom untuk memberikan jarak dari bawah sebanyak 3 rem.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/81b54d67-dcb4-409a-85a0-d947384f13bd)
+
+Kode CSS tersebut berlaku untuk elemen span pada elemen h2 kelas about, menu, dan contact. Color untuk mengatur warna tulisan menjadi warna primary yaitu biru.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/74f0ffe0-dcf5-4eca-a804-c8f13ec9ec29)
+
+Kode .about .row adalah aturan yang berlaku untuk elemen dengan kelas row yang berada di dalam elemen dengan kelas about. display: flex untuk mengatur model tata letak flexbox yang dapat diatur secara fleksibel.
