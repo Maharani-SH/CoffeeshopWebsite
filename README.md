@@ -1,11 +1,9 @@
 # CoffeeshopWebsite
 
 <div align="center">
-<h2>Spesifikasi Kebutuhan Perangkat Lunak</h2>
-<h1>Untuk</h1>
-Untuk
-Website E-Commerce 
-Coffee Shop 
+<h3>Spesifikasi Kebutuhan Perangkat Lunak</h3>
+<h2>Untuk</h2>
+<h1>Website E-Commerce Coffee Shop</h1>
 
 </div>
 
