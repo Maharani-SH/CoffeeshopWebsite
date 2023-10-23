@@ -436,3 +436,74 @@ Kode CSS tersebut berlaku untuk elemen span pada elemen h2 kelas about, menu, da
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/74f0ffe0-dcf5-4eca-a804-c8f13ec9ec29)
 
 Kode .about .row adalah aturan yang berlaku untuk elemen dengan kelas row yang berada di dalam elemen dengan kelas about. display: flex untuk mengatur model tata letak flexbox yang dapat diatur secara fleksibel.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/a160c31b-6b13-4b37-9efa-a42fd340db20)
+
+.about .row .about-img adalah salektor CSS yang memilih kelas about-img yang ada di kelas row, kelas row berada di kelas about. flex untuk mengubah ukurannya sesuai dengan kebutuhan kontainer flexbox. Angka 1 untuk flex grow (pertumbuhan) dan 1 kedua untuk flex shrink (penyusutan), artinya elemen dapat tumbuh dan menyusut seiring dengan fleksibilitas.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/65c43c37-b864-4da9-a4af-6e6130d3786d)
+
+Kode CSS ini adalah aturan yang berlaku untuk elemen <img> yang berada di dalam elemen dengan kelas about-img, kelas ini berada di kelas row, kelas row berada di kelas about. width untuk menetapkan lebar elemen <img> sebesar 100% dari lebar elemen about-img.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/58b212c7-22e0-487b-8ee8-82270b01004e)
+
+Kode .about .row .content berlaku untuk elemen dengan kelas content yang berada di kelas row, kelas row berada di kelas about. flex untuk mengatur fleksibilitas dari elemen, 1 pertama untuk pertumbuhan, 1 kedua untuk penyusutan, 35rem adalah ukuran awal elemen. padding untuk memberikan jarak 0 di atas dan di bawah, serta 1 di kiri dan kanan.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/e47901f4-06bf-4ad5-b762-46d7b4c4afc5)
+
+.about .row .content h3 artinya kode CSS ini berlaku untuk elemen <h3> yang ada pada kelas content. Font-size untuk menentukan ukuran huruf pada h3 sebesar 1.8rem, margin-bottom artinya menambah jarak dari bawah elemen sebesar 1rem.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/16c6bbed-a91a-4521-81ee-905f25e0feda)
+
+.about .row .content p artinya kode CSS ini berlaku untuk elemen <p> yang ada pada kelas content. Margin-bottom untuk menambah jarak di bawah elemen p sebanyak 0.8rem, font-size untuk ukuran huruf sebesar 1.3rem, font-weight untuk mengatur ketebalan huruf sebesar 100, line-height sebesar 1.6 yang mempengaruhi jarak antar baris dalam teks.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/bee9ad03-711b-44a1-b176-2542c2c93a29)
+
+Selanjutnya .menu h2, .contact h2 adalah selector CSS yang memilih elemen <h2> yang berada di dalam elemen dengan kelas menu dan contact. Margin-bottom untuk menambah jarak atau ruang di bawah elemen sebesar 1rem di bawah h2.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/0e680398-3c09-42c8-9744-00045de5e451)
+
+Kemudian .menu p, .contact p adalah selector CSS yang memilih elemen <p> yang berada di dalam elemen dengan kelas menu dan contact. Text-align untuk mengatur rata teks, disini center atau rata tengah. Max-width untuk menetapkan lebar maksimum <p> sebesar 30rem, margin: auto agar margin otomatis pada sisi kiri dan kanan, font-weight untuk ketebalan huruf sebesar 100, line-weight sebesar 1.6 yang mempengaruhi jarak antar baris dalam teks.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/ed33c406-6e3e-4c42-8a17-6f05ce55b2af)
+
+Kode .menu .row berarti aturan didalamnya berlaku untuk kelas row yang ada di kelas menu. Display flex digunakan agar elemen dapat diatur secara felsibel, flex-wrap memungkinkan elemen dalam row untuk melintas baris jika diperlukan, ketika ruang horizontal tidak mencukupi. Margin-top untuk memberikan jarak di atas elemen sebanyak 5rem, justify-content untuk mengatur elemen secara horizontal agar berada di tengah.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/8bb841ba-6e69-4233-9e55-97af5a70dd15)
+
+.menu .row .menu-card adalah selector CSS yang memilih elemen dengan kelas menu-card yang berada di dalam elemen dengan kelas row, row terdapat dalam kelas menu. Text-align mengatur teks menjadi rata tengah, padding-bottom untuk memberikan jarak di bawah menu-card sebesar 4rem.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/709559c6-f5f7-4b29-9752-630caae6448e)
+
+.menu .row .menu-card img adalah selector CSS yang memilih elemen <img> yang berada di dalam elemen dengan kelas menu-card. Border-radius untuk mengatur sudut setengah dari ukuran elemen, 50% akan membentuk lingkaran, width untuk menetapkan lebar gambar sebesar 20% dari lebar menu-card.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/353dc7e7-9552-4d1c-ac21-7c267eebcf9a)
+
+Kode .menu .row .menu-card .menu-card-title adalah selector CSS yang memilih elemen dengan kelas menu-card-title yang berada di dalam elemen dengan kelas menu-card, margin-top untuk menetapkan margin 1 rem di atas elemen, dan 1 rem di bawah elemen, dengan margin otomatis di sisi kiri dan kanan.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/3951bb36-3549-4827-bc75-848ebed1d62f)
+
+Kode CSS ini adalah bagian dari aturan media query yang berlaku untuk layar dengan lebar maksimum 1366 piksel (pada perangkat seperti laptop). html { font-size: 75%; }: di dalam media query ini, aturan ini mengatur ukuran font pada elemen <html> menjadi 75% dari ukuran default. Ini bisa digunakan untuk mengatur tata letak dan elemen-elemen pada halaman agar lebih responsif pada layar dengan lebar yang lebih sempit, seperti pada laptop.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/7ac64780-ed71-47bb-9340-e2610d4687ab)
+
+Kode @media (max-width: 768px) di atas adalah bagian dari aturan media query yang berlaku untuk layar dengan lebar maksimum 768 piksel (pada perangkat seperti tablet). html { font-size: 62.5%; }: di dalam media query ini, aturan ini mengatur ukuran font pada elemen <html> menjadi 62.5% dari ukuran default. Ini sering digunakan untuk mempermudah pengaturan ukuran font pada perangkat dengan layar lebih kecil, seperti tablet. #menu { display: inline-block; }: Aturan ini mengubah tata letak dari elemen dengan id "menu". Elemen ini akan ditampilkan sebagai blok yang mengikuti aliran teks di dalam dokumen.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/e58625d9-c121-40a6-b834-516a01a65524)
+
+.navbar .navbar-nav adalah selector CSS yang memilih elemen degan kelas navbar-nav. Display absolute mengatur elemen untuk memiliki posisi absolut. Ini berarti elemen akan ditempatkan relatif terhadap elemen yang terdekat dengan posisi yang diatur, top 100% untuk memposisikan elemen di bawah elemen induk, right -100% agar elemen ke luar layar sebelah kanan, background-color untuk memeberi latar belakang putih, width untuk lebar dan height untuk tinggi elemen, transition untuk menambahkan transisi selama 0.3 detik pada perubahan propertinya, memberikan efek animasi saat perubahan terjadi.
+.navbar .navbar-nav.active adalah selector CSS yang memilih elemen dengan kelas navbar-nav yang juga memiliki kelas active saat elemen tersebut aktif. right: 0 untuk memposisikan elemen tepat di sebelah kanan, menampilkannya di dalam layar.
+.navbar .navbar-nav a adalah selector CSS yang memilih elemen a. color untuk mengatur warna teks menjadi warna hitam(--bg), display: block untuk mengatur elemen a untuk ditampilkan sebagai blok, sehingga memiliki lebar penuh dari elemen yang mengandungnya, margin: 1.5rem untuk menambahkan margin 1.5 rem di sekeliling, padding: 0.5rem memberikan ruang dalam elemen a sebesar 0.5 rem di sekeliling teks. font-size untuk mengatur ukuran font menjadi 2 rem.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/8750663b-c162-48a6-9e7c-161727b3ba65)
+
+Kode CSS ini menambahkan efek animasi saat mengarahkan kursor ke link di dalam navigasi. Saat kursor berada di atas link, elemen pseudo ::after dari link tersebut akan mengalami transformasi skala horizontal sehingga terlihat seperti garis bawah yang memanjang ke kanan. Transformasi ini memberikan umpan balik visual kepada pengguna bahwa link tersebut dapat diklik.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/8d810127-8fdc-49be-bf8e-f0ca63cd8578)
+
+Kode .about .row mengizinkan elemen dengan kelas row di dalam elemen about untuk melintas baris jika diperlukan, memastikan responsivitas terhadap berbagai ukuran layar. Selanjutnya, .about .row .about-img IMG menetapkan tinggi gambar pada 24 rem dengan object-fit: cover, memastikan gambar mengisi ruang yang tersedia dengan mempertahankan aspek rasio, dan object-position: center untuk memposisikan gambar di tengah elemen.
+.about .row .content menghapus padding pada elemen dengan kelas "content", mungkin untuk menyesuaikan tata letak dengan desain keseluruhan. .about .row .content h3 mengatur margin atas elemen <h3> sebesar 1 rem dan ukuran font menjadi 2 rem untuk judul dalam konteks "content". Terakhir, .about .row .content p menetapkan ukuran font elemen <p> di dalam konteks "content" menjadi 1.6 rem.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/5b1d9fe6-7685-4519-88e5-2523c4c51b5c)
+
+Kode CSS di atas mendefinisikan aturan tata letak untuk tampilan pada perangkat seluler dengan lebar layar maksimum 450 piksel. Pertama, aturan media query .@media (max-width: 450px) mengatur ukuran font pada elemen <html> menjadi 55% dari ukuran default, yang membantu menyesuaikan tata letak untuk layar seluler yang lebih kecil. Selanjutnya, pada bagian .menu, teks akan ditampilkan dalam warna putih. Ini mungkin digunakan untuk memastikan teks pada menu tetap terlihat dengan jelas pada latar belakang yang mungkin gelap.
