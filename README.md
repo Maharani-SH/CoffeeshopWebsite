@@ -393,13 +393,38 @@ class=“navbar-logo” digunakan untuk menulis atribut kelas yang digunakan ole
 
 div merupakan pengelompokan elemen di dalam HTML dari class yang sudah dibuat dimana elemen yang dikelompokan ini adalah “navbar-nav”.
 
-<i class data-feather="search"></i>
-
 i merupakan tag pada html untuk menampilkan ikon yang digunakan yang di dalam css termasuk kelas search.
 
-<input type="text" class="input" placeholder="Search...">
-
 Merupakan elemen input dengan atribut ‘text’ dan kelas ‘input’ dimana berfungsi untuk menuliskan teks ‘search’ di dalam kotak input yang akan dibuat.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/7bc9261d-a3dd-4d94-8a05-c02aeca02554)
+
+section digunakan untuk mengelompokkan dokumen/konten yang saling memiliki tema atau pembahasan yang sama.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/2219e484-0fd4-4698-80b0-933702497831)
+
+main digunakan untuk mendeklarasikan konten utama dalam HTML.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/43ab0de0-b80d-4a6a-9c34-55da4921f452)
+
+h1 memiliki ukuran huruf terbesar yang berfungsi sebagai penulisan judul utama website. span digunakan untuk menambahkan gaya penulisan pada HTML.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/02baea58-3e91-4ffc-9f35-12fb8be88eac)
+
+p merupakan tag untuk menambahkan dan mengatur teks paragraf dalam website.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/d0571438-f421-41a4-a5c0-6824537b7cde)
+
+iframe digunakan untuk menampilkan halaman website tanpa membuka halaman website tersebut. src digunakan untuk memasukan link halaman website.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/23918418-267a-4f73-9fc7-40e4ef9aa6e1)
+
+footer digunakan untuk menandai penutup dalam website yang berisikan informasi singkat sebagai penutup seperti kontak, sosmed, gmail, dan sebagainya.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/33e68a8a-3354-4622-af12-338e718a484a)
+
+script digunakan untuk menambahkan script javascript di dalam pengkodean. src digunakan untuk memasukan link halaman website. 
+
 
 8. Penjelasan CSS
 
