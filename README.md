@@ -16,44 +16,76 @@ Frida Nur Cahyani (22091397036)
 
 Maharani Sekar Hapsari (22091397037)
 
+
 D4 Manajemen Informatika
 Fakultas Vokasi 
 Universitas Negeri Surabaya
 2023 
 
 Daftar Isi
-1.	Pengantar	
-1.1	Tujuan	
-1.2	Konvensi Dokumen	
+1. Pengantar
+   
+1.1	Tujuan
+  	
+1.2	Konvensi Dokumen
+
 1.3	Audiens Yang Dituju	
+
 1.4	Lingkup Produk	
+
 1.5	Referensi	
-2.	Deskripsi Keseluruhan	
-2.1	Perspektif Produk	
+
+2. Deskripsi Keseluruhan
+   
+2.1	Perspektif Produk
+  	
 2.2	Fungsi Produk	
-2.3	Kelas dan Karakteristik Pengguna	
+
+2.3	Kelas dan Karakteristik Pengguna
+
 2.4	Lingkungan Pengembangan	
+
 2.5	Kendala Desain dan Implementasi	
+
 2.6	Dokumentasi Pengguna	
+
 2.7	Asumsi dan Dependensi	
-3.	Persyaratan Antarmuka	
-3.1	Antarmuka Pengguna	
+
+3. Persyaratan Antarmuka
+   
+3.1	Antarmuka Pengguna
+  	
 3.2	Antarmuka Perangkat Keras	
+
 3.3	Antarmuka Perangkat Lunak	
+
 3.4	Antarmuka Komunikasi	
-4.	Fitur Sistem	
-4.1	Deskripsi dan Prioritas	
+
+4. Fitur Sistem
+    
+4.1	Deskripsi dan Prioritas
+   	
 4.2	Fitur Sistem	
+
 4.3	Persyaratan Fungsional	
-5.	Persyaratan Fungsional Lainnya	
-5.1	Persyaratan Performa	
+
+5. Persyaratan Fungsional Lainnya
+    
+5.1	Persyaratan Performa
+   	
 5.2	Persyaratan Keamanan Pengguna	
+
 5.3	Persyaratan Keamanan Website	
+
 5.4	Atribut Kualitas Perangkat Lunak	
+
 5.5	Proses Bisnis	
-6.	Persyaratan Lainnya	
-7.	Penjelasan HTML
-8.	Penjelasan CSS
+
+6. Persyaratan Lainnya
+    
+7. Penjelasan HTML
+
+8. Penjelasan CSS
 
  
 Riwayat Perubahan
