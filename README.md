@@ -345,4 +345,40 @@ Kode CSS .navbar .navbar-nav a adalah selector CSS yang memilih elemen <a> yang 
 
 .navbar .navbar-nav a:hover adalah selector CSS yang memilih elemen <a> ketika pengguna melakukan hover (mengarahkan kursor mouse ke atasnya) yang berada di dalam elemen dengan kelas navbar-nav yang sendiri berada di dalam elemen dengan kelas navbar. color: var(--primary) maksudnya ketika elemen <a> dalam navbar-nav di-hover, warna teks akan diubah menjadi nilai dari variabel CSS –primary.
 
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/9604ba95-5327-4f06-91f8-7a5cdb2236c0)
+
+Kode .navbar .navbar-nav a::after adalah selector CSS yang memilih pseudoelemen ::after dari elemen <a> yang berada di dalam elemen dengan kelas navbar-nav yang sendiri berada di dalam elemen dengan kelas navbar. content: "" menetapkan konten menjadi string kosong, display: block menetapkan tampilan sebagai blok, padding-bottom: 0.5rem untuk menambahkan jarak di bawah, border-bottom: 0.1rem solid var(--primary) untuk menambahkan garis bawah dengan ketebalan 0.1 rem dan warna sesuai dengan nilai dari variabel CSS –primary, transform: scaleX(0) akan memiliki skala horizontal (lebar) 0 pada awalnya, sehingga tidak terlihat. transition: 0.2s linear untuk mengatur transisi animasi selama 0.2 detik dengan percepatan linier ketika terjadi perubahan.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/426ca62f-2ff4-4a1b-9f10-99512cd2d541)
+
+Kode ini menghasilkan efek animasi di mana garis bawah yang muncul saat mengarahkan kursor ke tautan pada navbar akan memanjang secara horizontal hingga setengah lebarnya. Ini memberikan umpan balik visual kepada pengguna ketika mereka mengarahkan kursor mouse ke atas tautan pada navbar.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/aa627efa-5589-4753-a51a-bf99f8f6c35f)
+
+.navbar .navbar-extra a  adalah selector CSS yang memilih elemen <a> yang berada di dalam elemen dengan kelas navbar-extra, yang sendiri berada di dalam elemen dengan kelas navbar. color: #fff yang mengatur warna teks dari elemen <a> menjadi putih, margin: 0 0.5rem untuk menetapkan margin pada sisi kiri dan kanan dari elemen <a>, dengan nol di atas dan bawahnya. Ini memberikan jarak horizontal antar tautan pada navbar-extra.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/7a1ab323-91d2-40a0-8e5c-f0a24d81ae38)
+
+color: var(--primary) memberikan efek visual ketika pengguna mengarahkan kursor ke tautan pada navbar-extra, warna teks akan diubah menjadi nilai dari variabel CSS --primary yang telah didefinisikan sebelumnya.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/72534c3b-c556-433f-a5ec-6b1f51f39949)
+
+.hero adalah selector CSS yang memilih elemen dengan kelas hero. min-height: 100vh untuk menetapkan tinggi minimum elemen hero sebesar 100% dari ketinggian viewport (tinggi layar pengguna), display: flex untuk mengatur elemen hero agar menggunakan model tata letak flexbox, align-items: center untuk mengatur elemen agar berada di tengah secara vertical, background-image: url("../IMG/background.jpg") untuk menetapkan gambar latar belakang, background-repeat: no-repeat untuk mengatur gambar latar belakang untuk tidak diulang, background-size: cover untuk menyesuaikan ukuran gambar latar belakang agar selalu menutupi seluruh area elemen hero, background-position: center untuk memposisikan gambar latar belakang di tengah-tengah, position: relative untuk mengatur posisi elemen hero sebagai relatif terhadap posisi normalnya dalam halaman.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/161d17ee-a22e-468d-8975-a70f1878af11)
+
+Kode CSS ini menambahkan elemen pseudo setelah elemen dengan kelas hero untuk menciptakan efek overlay pada latar belakang. Content: “” untuk menetapkan konten menjadi string kosong, display: block untuk mengatur tampilan sebagai blok, position: absolute untuk mengatur posisi secara terpisah dari elemen aslinya, width: 100% untuk menetapkan lebar sebesar 100% dari lebar elemen hero, height: 30% untuk menetapkan tinggi sebesar 30% dari tinggi elemen hero, bottom: 0 untuk memposisikan pseudoelemen ::after di bagian bawah elemen hero. background: untuk menetapkan latar belakang pada pseudoelemen ::after menggunakan gradien linear.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/e71850e2-93bd-4318-bbe3-dcf194886abb)
+
+.hero .content: Ini adalah selector CSS yang memilih elemen dengan kelas content yang berada di dalam elemen dengan kelas hero. padding: 1.4rem 7% untuk menetapkan jarak di sekitar konten dengan 1.4 rem di atas dan bawah, serta 7% dari lebar elemen di sisi kanan dan kiri, max-width: 60rem untuk memastikan bahwa konten tidak melebar terlalu lebar pada tampilan layar yang lebih besar.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/4a2a50ed-3fc3-4768-9514-ada6dbc4bf46)
+
+Kode CSS ini adalah aturan yang berlaku untuk elemen <h1> yang berada di kelas content, sedangkan kelas content berada di kelas hero. Font-size untuk menentukan font h1 sebesar 5em, color untuk mengatur warna teks menjadi putih, text shadow untuk menambahkan bayangan pada teks sesuai warna rgba, line-height: 1.2 untuk menetapkan tinggi garis (line-height) elemen <h1> sebesar 1.2. Ini mempengaruhi jarak antar baris dalam teks.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/21fad52c-aa10-40d9-9459-963ee895afea)
+
+Kode CSS .hero .content h1 span untuk memilih elemen <span> yang berada pada <h1>, h1 berada pada kelas content, sedangkan content berada pada kelas hero. Color untuk mengatur warna teks, disini menggunakan warna primary atau biru.
+
 
