@@ -341,8 +341,29 @@ Lampiran C : Daftar Fitur Yang Akan Ditentukan
 
 Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website daysee, antara lain yaitu pembuatan IP agar website Daysee agar dapat digunakan pada aplikasi mobile, dan membuat Daysee menjadi aplikasi yang dapat digunakan pada android.
 
+7. Penjelasan HTML
 
- 8. Penjelasan CSS
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/65a0acb5-d10e-4701-887a-2ef9e678bca5)
+
+Merupakan deklarasi untuk menjelaskan bahwa dokumen ini ditulis menggunakan Bahasa HTML.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/a4a9b8cf-c346-4e51-bca3-20e7b28c1bff)
+
+Merupakan tag pembuka yang menunjukkan bahwa Bahasa inggris digunakan dalam penulisan HTML ini.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/e0a40e50-fcbd-4039-be5e-74a042575297)
+
+head digunakan sebagai tempat penyimpanan metadata/informasi halaman web yang tidak ditampilkan pada halaman website tersebut.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/b37311d0-2343-43a7-ab18-156ea6aa4723)
+
+meta charset=”UTF-8” merupakan tag meta untuk mendefinisikan karakter set atau karakter pengkodean
+
+
+
+
+   
+8. Penjelasan CSS
 
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/d31df2c8-dc7a-43d9-8f62-c1ea844b4589)
 
