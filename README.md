@@ -9,45 +9,49 @@ Versi 1.0 Disetujui
 
 
 Disusun Oleh : 
+
 Intan Rachmalia Dewi (22091397021) 
+
 Frida Nur Cahyani (22091397036) 
+
 Maharani Sekar Hapsari (22091397037)
 
 D4 Manajemen Informatika
 Fakultas Vokasi 
 Universitas Negeri Surabaya
 2023 
+
 Daftar Isi
-1.	Pengantar	1
-1.1	Tujuan	1
-1.2	Konvensi Dokumen	1
-1.3	Audiens Yang Dituju	1
-1.4	Lingkup Produk	2
-1.5	Referensi	2
-2.	Deskripsi Keseluruhan	3
-2.1	Perspektif Produk	3
-2.2	Fungsi Produk	3
-2.3	Kelas dan Karakteristik Pengguna	3
-2.4	Lingkungan Pengembangan	4
-2.5	Kendala Desain dan Implementasi	4
-2.6	Dokumentasi Pengguna	4
-2.7	Asumsi dan Dependensi	5
-3.	Persyaratan Antarmuka	6
-3.1	Antarmuka Pengguna	6
-3.2	Antarmuka Perangkat Keras	6
-3.3	Antarmuka Perangkat Lunak	7
-3.4	Antarmuka Komunikasi	11
-4.	Fitur Sistem	11
-4.1	Deskripsi dan Prioritas	11
-4.2	Fitur Sistem	11
-4.3	Persyaratan Fungsional	12
-5.	Persyaratan Fungsional Lainnya	12
-5.1	Persyaratan Performa	12
-5.2	Persyaratan Keamanan Pengguna	12
-5.3	Persyaratan Keamanan Website	13
-5.4	Atribut Kualitas Perangkat Lunak	13
-5.5	Proses Bisnis	14
-6.	Persyaratan Lainnya	14
+1.	Pengantar	
+1.1	Tujuan	
+1.2	Konvensi Dokumen	
+1.3	Audiens Yang Dituju	
+1.4	Lingkup Produk	
+1.5	Referensi	
+2.	Deskripsi Keseluruhan	
+2.1	Perspektif Produk	
+2.2	Fungsi Produk	
+2.3	Kelas dan Karakteristik Pengguna	
+2.4	Lingkungan Pengembangan	
+2.5	Kendala Desain dan Implementasi	
+2.6	Dokumentasi Pengguna	
+2.7	Asumsi dan Dependensi	
+3.	Persyaratan Antarmuka	
+3.1	Antarmuka Pengguna	
+3.2	Antarmuka Perangkat Keras	
+3.3	Antarmuka Perangkat Lunak	
+3.4	Antarmuka Komunikasi	
+4.	Fitur Sistem	
+4.1	Deskripsi dan Prioritas	
+4.2	Fitur Sistem	
+4.3	Persyaratan Fungsional	
+5.	Persyaratan Fungsional Lainnya	
+5.1	Persyaratan Performa	
+5.2	Persyaratan Keamanan Pengguna	
+5.3	Persyaratan Keamanan Website	
+5.4	Atribut Kualitas Perangkat Lunak	
+5.5	Proses Bisnis	
+6.	Persyaratan Lainnya	
 7.	Penjelasan HTML
 8.	Penjelasan CSS
 
@@ -300,15 +304,26 @@ C.	Data Flow Diagram
 -	Level 1
 -	Level 2
 -	Level 2.1
- 
 
-
-
- 
- 
- 
- 
- 
 Lampiran C : Daftar Fitur Yang Akan Ditentukan
 
 Pada lampiran ini berisi mengenai fitur-fitur yang belum ditentukan pada website daysee, antara lain yaitu pembuatan IP agar website Daysee agar dapat digunakan pada aplikasi mobile, dan membuat Daysee menjadi aplikasi yang dapat digunakan pada android.
+
+
+ 8. Penjelasan CSS
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/d31df2c8-dc7a-43d9-8f62-c1ea844b4589)
+:root adalah pseudo-class yang mengacu pada elemen root dari dokumen HTML, yaitu <html>. Dalam CSS, :root digunakan untuk mendefinisikan variabel CSS global seperti --primary (warna utama) yang disini menggunakan kode heksa (ditandai dengan tanda pagar) sehingga memberikan warna biru dan --bg (warna background) yang juga menggunakan kode heksa berwarna hitam tua. Variabel ini bisa digunakan di seluruh halaman web untuk mengontrol properti seperti warna, latar belakang, dan lainnya.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/ddca2f65-86fc-4414-b19a-d05262c83a6f)
+Kode * dalam CSS adalah selektor universal, yang berarti memilih semua elemen di halaman web. Didalamnya terdapat beberapa property seperti margin, padding, box-sizing, outline, border, dan text-decoration. Terdapat margin: 0 untuk menghapus margin (ruang kosong) di sekitar elemen, sehingga elemen akan mulai tepat dari tepi kontainer induknya, padding: 0 untuk menghapus padding (ruang di dalam elemen) sehingga konten elemen akan mulai dari tepi elemen itu sendiri, box-sizing: border-box untuk menentukan cara browser menghitung lebar dan tinggi elemen, sehingga termasuk padding dan border dalam pengukuran total, bukan menambahkannya. Selanjutnya ada outline: none untuk menghilangkan garis luar (outline) yang muncul saat elemen mendapatkan fokus, border: none untuk menghapus semua border dari elemen, text-decoration: none untuk menghapus dekorasi teks seperti garis bawah pada tautan.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/669786fd-5a73-4c0c-8ca6-18fad7f978a2)
+html { scroll-behavior: smooth; } adalah aturan CSS yang mengubah perilaku scroll pada elemen <html> di halaman web. Dengan pengaturan ini, ketika pengguna mengklik tautan di halaman web, halaman akan menggulir ke bagian yang dituju dengan gerakan yang lebih halus dan tidak terlalu tiba-tiba.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/6171011c-c2f4-4848-a29e-8fbd40c86945)
+Body adalah selektor yang memilih elemen <body> dalam dokumen HTML. Didalamnya terdapat font-family yang mengatur jenis font untuk digunakan di selutuh web menggunakan Poppins, jika tidak tersedia maka akan menggunakan sans-serif. Selanjutnya background-color yang mengatur latar belakang untuk <body>, disini kami menggunakan sesuai background yang sudah didefinisikan sebelumnya yaitu warna hitam. Kemudian color: #fff yang mengatur warna teks di dalam body menjadi putih. Terakhir min-height: 2200px yang menentukan tinggi minimum untuk memastikan konten halaman dapat ditampilkan dengan baik tanpa harus menggulir terlalu jauh.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/e7798f14-3516-4b11-82f1-932772fd449a)
+Kode CSS tersebut adalah aturan untuk elemen dengan kelas navbar. .navbar adalah selektor untuk elemen dengan kelas navbar, didalamnya terdapat display: flex yang mengatur elemen navbar untuk menggunakan model tata letak flexbox, justify-content: space-between untuk mengatur ruang di sekitar elemen di dalam navbar agar terdistribusi secara merata, sehingga elemen akan berada di sebelah kiri dan kanan, align-items: center yang mengatur elemen di dalam navbar agar berada di tengah secara vertical. 
+Selanjutnya terdapat padding: 1.4rem 7% yang memberi jarak sekitar elemen navbar, background-color: rgb(1, 1, 1, 0.8) untuk menentukan warna latar belakang dengan nilai rgba yang hampir hitam, sehingga sedikit transparan. border-bottom: 1px solid #1082a8 untuk menambahkan garis bawah dengan warna biru, position: fixed untuk mengunci elemen navbar di tempatnya, sehingga tetap berada di atas bahkan saat pengguna menggulir halaman, top: 0; left: 0; right: 0 untuk menempatkan elemen navbar di seluruh lebar halaman, z-index: 9999 untuk mengatur tumpukan z-indeks, sehingga elemen "navbar" akan selalu berada di atas elemen lainnya.
