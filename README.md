@@ -18,8 +18,11 @@ Maharani Sekar Hapsari (22091397037)
 
 
 D4 Manajemen Informatika
+
 Fakultas Vokasi 
+
 Universitas Negeri Surabaya
+
 2023 
 
 </div>
