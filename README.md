@@ -372,10 +372,26 @@ title untuk menuliskan judul pada website.
 link rel="preconnect" digunakan untuk memberitahu browser bahwa halaman web ini akan dilakukan koneksi ke server ke web lain.
 href="https://fonts.googleapis.com" digunakan untuk memasukan link yang dikoneksikan pada website. Disini digunakan link Google Fonts API sebagai sumber font website ini.
 
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/25338344-97cd-4349-8e33-1b05c078da7f)
 
+rel untuk menggabungkan browser dengan dokumen yang di-link an, disini digunakan dokumen css ("stylesheet").
 
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/370e1187-5e53-43ce-a453-824c8479b20c)
 
+script src disini digunakan untuk memuat script eksternal dari link yang ditentukan agar web dapat mengakses dan menggunakan fungsi di dalam link tersebut.
 
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/20f61304-ebed-40b0-9fd3-86fd79c8dfda)
+
+nav digunakan untuk membuat menu navigasi yang terletak pada bagian header website.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/7e3c63d3-5db4-46fd-bd28-a0ef7072bb6a)
+
+a href=”#” digunakan untuk membuat hyperlink dalam HTML dimana “#” merupakan atribut yang menentukan id elemen.
+class=“navbar-logo” digunakan untuk menulis atribut kelas yang digunakan oleh HTML. span digunakan untuk menambahkan gaya penulisan pada HTML.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/a95722af-2acf-4478-8900-f92e37a64a8a)
+
+div merupakan pengelompokan elemen di dalam HTML dari class yang sudah dibuat dimana elemen yang dikelompokan ini adalah “navbar-nav”.
 
 8. Penjelasan CSS
 
