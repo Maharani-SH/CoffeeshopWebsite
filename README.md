@@ -407,7 +407,7 @@ Kode CSS ini menambahkan elemen pseudo setelah elemen dengan kelas hero untuk me
 
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/4a2a50ed-3fc3-4768-9514-ada6dbc4bf46)
 
-Kode CSS ini adalah aturan yang berlaku untuk elemen <h1> yang berada di kelas content, sedangkan kelas content berada di kelas hero. Font-size untuk menentukan font h1 sebesar 5em, color untuk mengatur warna teks menjadi putih, text shadow untuk menambahkan bayangan pada teks sesuai warna rgba, line-height: 1.2 untuk menetapkan tinggi garis (line-height) elemen <h1> sebesar 1.2. Ini mempengaruhi jarak antar baris dalam teks.
+Kode CSS ini adalah aturan yang berlaku untuk elemen <h1> yang berada di kelas content,
 
 yang berada di kelas content, sedangkan kelas content berada di kelas hero. Font-size untuk menentukan font h1 sebesar 5em, color untuk mengatur warna teks menjadi putih, text shadow untuk menambahkan bayangan pada teks sesuai warna rgba, line-height: 1.2 untuk menetapkan tinggi garis (line-height) elemen <h1> sebesar 1.2. Ini mempengaruhi jarak antar baris dalam teks.
 
