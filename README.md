@@ -359,10 +359,24 @@ head digunakan sebagai tempat penyimpanan metadata/informasi halaman web yang ti
 
 meta charset=”UTF-8” merupakan tag meta untuk mendefinisikan karakter set atau karakter pengkodean
 
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/310ee4bb-21e7-41bd-8e8c-8c79947f338d)
+
+meta name’’viewport” merupakan tag meta untuk mengatur tampilan halaman. content=”width=device-width, initial-scale=1.0” untuk mengatur lebar halaman sesuai dengan lebar perangkat yang digunakan user dalam membuka web ini.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/91423101-3b70-4d38-aa20-657b2387523c)
+
+title untuk menuliskan judul pada website.
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/c22c00db-b119-489a-b57e-a835dbb6d2af)
+
+link rel="preconnect" digunakan untuk memberitahu browser bahwa halaman web ini akan dilakukan koneksi ke server ke web lain.
+href="https://fonts.googleapis.com" digunakan untuk memasukan link yang dikoneksikan pada website. Disini digunakan link Google Fonts API sebagai sumber font website ini.
 
 
 
-   
+
+
+
 8. Penjelasan CSS
 
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/d31df2c8-dc7a-43d9-8f62-c1ea844b4589)
