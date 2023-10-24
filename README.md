@@ -130,8 +130,10 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 
 	1.5	Referensi 
 	
-	Bahan referensi yang digunakan dalam penyelesaian dokumen ini diambil dari beberapa buku seperti : 
+	Bahan referensi yang digunakan dalam penyelesaian dokumen ini diambil dari beberapa buku seperti :
+
 Software Engineering: A Practitioner’s Approach, 7th International edition, Roger Pressman, 2009
+
 IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998.
 
 5.	Deskripsi Keseluruhan
@@ -227,20 +229,20 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 	
 	About Us ini menampilkan informasi mengenai alasan memilih kedai Kopi Asmara.
 	
-	![pic2](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/129adb5e-089e-49df-8bd8-6d3989fa6652)
+	![Screenshot (1402)](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/bb33e58f-7151-429d-9890-c0a5ae65fba9)
 	
 	C. Tampilan Our Menu
 	
 	Pada tampilan Our Menu, terdapat daftar menu yang dijual di kedai Kopi Asmara dengan menampilkan gambar, nama produk, dan juga harga. 
 	
-	![pic3](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/9e84988f-21d9-49ec-8e39-dfb429032e55)
+	![Screenshot (1403)](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/d791261d-25de-4f97-8c73-2a32a38bc2e1)
 	
 	D. Tampilan Contact
 
 	Untuk informasi lebih lanjut, terdapat Contact yang dapat dihubungi oleh pembeli apabila mempunyai beberapa pertanyaan. Disini juga terdapat peta yang menampilkan alamat dari kedai Kopi Asmara.
 	
-	![pic4](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/c5c6cc41-27af-41b0-8f92-ac65d929d6eb)
-	
+	![Screenshot (1404)](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/1bdc7041-8bec-4022-823d-4935cbca064c)
+
 	3.4 Antarmuka Komunikasi
 	
 	Website Coffee Shop ini membutuhkan laptop, PC, tablet atau smartphone yang terhubung ke jaringan internet untuk beroperasi dengan baik. TCP/IP digunakan sebagai standar komunikasi data yang dipakai dalam proses tukar menukar data antar perangkat yang terhubung dalam jaringan.
