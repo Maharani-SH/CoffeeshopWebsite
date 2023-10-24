@@ -189,7 +189,7 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	1. Kebutuhan Non Fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat lunak
 	
 	
-	2.7	Asumsi dan Dependensi
+	2.6	Asumsi dan Dependensi
   	
 	Asumsi - asumsi pada Website Coffee Shop adalah sebagai berikut:
 	
