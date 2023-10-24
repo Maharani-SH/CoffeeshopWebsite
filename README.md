@@ -53,11 +53,9 @@ Daftar Isi
 
 	2.4	Lingkungan Pengembangan	
 
-	2.5	Kendala Desain dan Implementasi	
+	2.5	Dokumentasi Pengguna	
 
-	2.6	Dokumentasi Pengguna	
-
-	2.7	Asumsi dan Dependensi	
+	2.6	Asumsi dan Dependensi	
 
 3. Persyaratan Antarmuka
    
@@ -171,10 +169,7 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
  	3. Google Chrome
 
 
-	2.5	Kendala Desain dan Implementasi
-	
-	
-	2.6	Dokumentasi Pengguna
+	2.5	Dokumentasi Pengguna
 	
 	SRS ini dibagi menjadi beberapa bagian, yaitu :
 
@@ -336,6 +331,8 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	-	Level 0
 		
  	![image](https://github.com/Maharani-SH/CoffeeshopWebsite/assets/124522757/0da1caed-8b8c-42fa-825f-877aec964c10)
+
+	- 	Level 1 
 
 Lampiran C : Daftar Fitur Yang Akan Ditentukan
 
