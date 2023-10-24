@@ -99,10 +99,9 @@ Daftar Isi
  
 Riwayat Perubahan
 
-Nama			  |        Tanggal	|   	 Alasan Perubahan      |  Versi  |
-Deploy Pertama ke Github  |  12 September 2023	| Upload Program ke Github     |  1.0.0  |
-Optimisasi Website	  |          -	        |  Perbaikan CSS Pada Website  |  1.0.1  |
-
+Nama	Tanggal	Alasan Perubahan	Versi
+Deploy Pertama ke Github	12 September 2023	Upload Program	1.0.0
+Optimalisasi Website	-	Perbaikan CSS pada Website	1.0.1
  
 1.	Pengantar
 
@@ -117,11 +116,11 @@ Optimisasi Website	  |          -	        |  Perbaikan CSS Pada Website  |  1.0.
 
 	1.2	Konvensi Dokumen
 	
-	Dokumen SRS ini memiliki fitur istilah-istilah yang mungkin jaang ditemukan oleh pembaca. Pembaca dapat melihatnya di Appendix A (Glossary) untuk daftar dari istilah-istilah dan difinisinya masing-masing.
+	Dokumen SRS ini memiliki fitur istilah-istilah yang mungkin jarang ditemukan oleh pembaca. Pembaca dapat melihatnya di Appendix A (Glossary) untuk daftar dari istilah-istilah dan difinisinya masing-masing.
 	
 	1.3	Audiens Yang Dituju 
 	
-	Dokumen ini ditujukan untuk semua orang terutama individu yang mencari tempat nyaman untuk menikmati waktu santai dengan menikmati berbagai jenis kopi dan makanan ringan. Selain itu, orang orang yang ingin memesan makanan dari Coffee Shop dengan cara yang praktis dan cepat ataupun tertarik untuk mendapatkan informasi terbaru tentang promosi, acara khusus, dan produk baru dari Cofee Shop Kopi Asmara. Pembaca yang tertarik dengan Web Kopi Asmara ini dapat membaca lebih lanjut bagian 3 yaitu System Features yang menjelaskan mengenai informasi yang tercantum dalam gambaran umum projek, atau bagian 4 dan 5 yang menjelaskan detail mengenai kebutuhan fungsional dan non fungsional dari web ini.
+	Dokumen ini ditujukan untuk semua orang terutama individu yang mencari tempat nyaman untuk menikmati waktu santai dengan menikmati berbagai jenis kopi dan makanan ringan. Selain itu, orang orang yang ingin memesan makanan dari Coffee Shop dengan cara yang praktis dan cepat ataupun tertarik untuk mendapatkan informasi terbaru tentang promosi, acara khusus, dan produk baru dari Coffee Shop Kopi Asmara. Pembaca yang tertarik dengan Web Kopi Asmara ini dapat membaca lebih lanjut bagian 3 yaitu System Features yang menjelaskan mengenai informasi yang tercantum dalam gambaran umum projek, atau bagian 4 dan 5 yang menjelaskan detail mengenai kebutuhan fungsional dan non fungsional dari web ini.
 	
 	1.4	Lingkup Produk
 	
@@ -140,11 +139,11 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 
 	2.1	Perspektif Produk
 	
-	Website Coffe Shop ini merupakan platform website online yang dirancang untuk melakukan pembelian kopi secara online pada halaman web melalui smartphone, tablet atauPC yang terkoneksi dengan internet. Website Coffe Shop ini memiliki katalog yang menampilkan beberapa menu kopi yang dapat ditambahkan kedalam keranjang dan dapat dipesan secara online via website. Sehingga dengan adanya Website Coffe Shop ini diharapkan mampu mempermudah pelanggan untuk melakukan pemesanan serta meningkatkan penjualan.
+	Website Coffe Shop ini merupakan platform website online yang dirancang untuk melakukan pembelian kopi secara online pada halaman web melalui smartphone, tablet atau PC yang terkoneksi dengan internet. Website Coffe Shop ini memiliki katalog yang menampilkan beberapa menu kopi yang dapat ditambahkan kedalam keranjang dan dapat dipesan secara online via website. Sehingga dengan adanya Website Coffe Shop ini diharapkan mampu mempermudah pelanggan untuk melakukan pemesanan serta meningkatkan penjualan.
 	
 	2.2	Fungsi Produk
 	
-	Website ini digunakan untuk mempermudah customer/pelanggan dalam melakukan pembelian dan pemesanan menu yang ada pada website coffe shop kami.
+	Website ini digunakan untuk mempermudah customer/pelanggan dalam melakukan pembelian dan pemesanan menu yang ada pada website coffee shop kami.
 	
 	2.3	Kelas dan Karakteristik Pengguna
 	
@@ -197,7 +196,7 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	
 	2.7	Asumsi dan Dependensi
   	
-	Asumsi - asumsi pada Website Coffe Shop adalah sebagai berikut:
+	Asumsi - asumsi pada Website Coffee Shop adalah sebagai berikut:
 	
  	a. Admin dapat mengelola dan melihat sistem secara keseluruhan termasuk mengelola administrasi dan manajemen website coffe shop tidak memiliki wewenang untuk mengubah data data pemesanan dan pembayaran.
 
@@ -212,7 +211,7 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	
 	3.2	Antarmuka Perangkat Keras
 	
-	Adapun antarmuka perangkat keras yang digunakan untuk mengakses website Daysee antara lain:
+	Adapun antarmuka perangkat keras yang digunakan untuk mengakses website Kopi Asmara antara lain:
 	- Smartphone : Hardware untuk mengakses situs Coffee Shop Kopi Asmara.
 	- Monitor : Menampilkan halaman website.
 	- Keyboard : Untuk memasukkan input ke website.
@@ -302,10 +301,15 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	5.5	Proses Bisnis
 
 
-
 6.	Persyaratan Lainnya
    	
 	Lampiran A : Glosarium
+	Website : Kumpulan halaman-halaman terkait yang dapat diakses melalui internet dan biasanya berbagi domain atau alamat web tunggal yang berisi teks, gambar, video, dan elemen interaktif lainnya
+	Website Coffee Shop : Situs web yang dimiliki atau dioperasikan oleh sebuah kedai kopi atau kafe
+	HTML : Hypertext Markup Language adalah bahasa standar yang digunakan untuk membuat halaman web dengan memberikan struktur dasar dari suatu halaman web, menentukan elemen-elemen seperti judul, paragraf, tautan, gambar, dan banyak lagi.
+	CSS : Cascading Style Sheets adalah bahasa pemrograman yang digunakan untuk mengontrol tata letak, tata gaya, dan penampilan visual dari elemen-elemen yang dijelaskan dalam dokumen HTML
+	JavaScript : Bahasa pemrograman tingkat tinggi yang umum digunakan untuk mengembangkan aplikasi web interaktif
+	Command Prompt : Program atau antarmuka baris perintah pada sistem operasi Windows
 
 	Lampiran B : Model Analisis
 	A.	Flowchart
