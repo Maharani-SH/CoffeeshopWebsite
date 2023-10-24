@@ -327,7 +327,11 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 
 	 ![image](https://github.com/Maharani-SH/CoffeeshopWebsite/assets/124522757/cd03ca25-4b5e-49a1-8c9d-636223de480e)
 
-	C.	Data Flow Diagram 
+	C.	Entity Relationship Diagram
+
+	![image (3)](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/8926f0e2-fb34-4417-8199-32d761c36757)
+
+	D. 	Data Flow Diagram 
 	-	Level 0
 		
  	![image](https://github.com/Maharani-SH/CoffeeshopWebsite/assets/124522757/0da1caed-8b8c-42fa-825f-877aec964c10)
