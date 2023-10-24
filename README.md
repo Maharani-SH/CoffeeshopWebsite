@@ -274,9 +274,13 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	4.2	Fitur Sistem 
 
 	4.3	Persyaratan Fungsional
+  	
 		- Website harus menyediakan informasi tentang kafe, lokasi fisik kafe, termasuk peta untuk menunjukkan arah
+  	
   		- Website harus menunjukkan jam operasional kafe
+  	
   		- Website harus memberikan daftar lengkap menu kopi yang ditawarkan beserta deskripsi dan harga
+  	
   		- Website harus menyediakan tautan untuk akun media sosial kafe. Formulir atau metode kontak untuk memberikan umpan balik atau pertanyaan dari pengunjung
 
 6.	Persyaratan Fungsional Lainnya
