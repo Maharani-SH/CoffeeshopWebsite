@@ -336,7 +336,19 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 		
  	![image](https://github.com/Maharani-SH/CoffeeshopWebsite/assets/124522757/0da1caed-8b8c-42fa-825f-877aec964c10)
 
-	- 	Level 1 
+	- 	Level 1
+
+	![level1 drawio](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/5b44eba4-fd1a-43bc-b7e6-28b2e8c3402e)
+
+	- 	Level 2
+
+	![level 2 1-Page-1 drawio](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/816aa0e4-d037-416d-bc8d-f61b7bdb01f9)
+
+	- 	Level 2.1
+
+ 	![level 2 2 drawio](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/f12df8df-2322-4211-89b1-9ec9eb4f3b80)
+
+
 
 Lampiran C : Daftar Fitur Yang Akan Ditentukan
 
