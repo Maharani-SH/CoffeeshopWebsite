@@ -99,9 +99,9 @@ Daftar Isi
  
 Riwayat Perubahan
 
-Nama	Tanggal	Alasan Perubahan	Versi
-Deploy Pertama ke Github	12 September 2023	Upload Program ke Github	1.0.0
-Optimisasi Website	-	Perbaikan CSS Pada Website	1.0.1
+Nama			  |        Tanggal	|   	 Alasan Perubahan      |  Versi  |
+Deploy Pertama ke Github  |  12 September 2023	| Upload Program ke Github     |  1.0.0  |
+Optimisasi Website	  |          -	        |  Perbaikan CSS Pada Website  |  1.0.1  |
 
  
 1.	Pengantar
