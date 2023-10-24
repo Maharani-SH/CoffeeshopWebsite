@@ -105,11 +105,10 @@ Optimisasi Website	-	Perbaikan CSS Pada Website	1.0.1
 
 	1.1	Tujuan
 
-		Tujuan pembuatan website Coffee Shop antara lain :
-		1.	Memungkinkan pembeli untuk mengakses informasi dengan mudah mengenai kafe, seperti menu, lokasi, dan jam operasional tanpa harus datang ke kafe.
-		2.	Memungkinkan kafe untuk berbagi promosi, diskon, menu baru secara lebih cepat yang dapat meningkatkan minat dan partisipasi pembeli.
-		3.	Meningkatkan jangkauan pasar karena website dapat dilihat oleh pembeli dari berbagai tempat tidak hanya oleh orang yang berada di sekitar kafe.
-		4.	Memudahkan pemilik cafe dalam memahami preferensi pembeli dan mengoptimalkan pengalaman pengguna karena adanya web dapat diketahui jumlah dan perilaku pembeli. Informasi ini dapat digunakan untuk meningkatkan strategi pemasaran dan pengelolaan kafe.
+	Tujuan pembuatan website Coffee Shop antara lain :
+	1. Memungkinkan pembeli untuk mengakses informasi dengan mudah mengenai kafe, seperti menu, lokasi, dan jam operasional tanpa harus datang ke kafe.
+ 	   1. Memungkinkan kafe untuk berbagi promosi, diskon, menu baru secara lebih cepat yang dapat meningkatkan minat dan partisipasi pembeli.			1.	Meningkatkan jangkauan pasar karena website dapat dilihat oleh pembeli dari berbagai tempat tidak hanya oleh orang yang berada di sekitar kafe.
+	1.	Memudahkan pemilik cafe dalam memahami preferensi pembeli dan mengoptimalkan pengalaman pengguna karena adanya web dapat diketahui jumlah dan perilaku pembeli. Informasi ini dapat digunakan untuk meningkatkan strategi pemasaran dan pengelolaan kafe.
 
 	1.2	Konvensi Dokumen
 	
@@ -130,7 +129,7 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 Software Engineering: A Practitioner’s Approach, 7th International edition, Roger Pressman, 2009
 IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998.
 
-2.	Deskripsi Keseluruhan
+3.	Deskripsi Keseluruhan
 
 	2.1	Perspektif Produk
 	
