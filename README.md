@@ -274,9 +274,12 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	4.2	Fitur Sistem 
 
 	4.3	Persyaratan Fungsional
+		- Website harus menyediakan informasi tentang kafe, lokasi fisik kafe, termasuk peta untuk menunjukkan arah
+  		- Website harus menunjukkan jam operasional kafe
+  		- Website harus memberikan daftar lengkap menu kopi yang ditawarkan beserta deskripsi dan harga
+  		- Website harus menyediakan tautan untuk akun media sosial kafe. Formulir atau metode kontak untuk memberikan umpan balik atau pertanyaan dari pengunjung
 
-
-5.	Persyaratan Fungsional Lainnya
+6.	Persyaratan Fungsional Lainnya
 
 	5.1	Persyaratan Performa
 	
@@ -301,14 +304,20 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	5.5	Proses Bisnis
 
 
-6.	Persyaratan Lainnya
+7.	Persyaratan Lainnya
    	
 	Lampiran A : Glosarium
+
 	Website : Kumpulan halaman-halaman terkait yang dapat diakses melalui internet dan biasanya berbagi domain atau alamat web tunggal yang berisi teks, gambar, video, dan elemen interaktif lainnya
+
 	Website Coffee Shop : Situs web yang dimiliki atau dioperasikan oleh sebuah kedai kopi atau kafe
-	HTML : Hypertext Markup Language adalah bahasa standar yang digunakan untuk membuat halaman web dengan memberikan struktur dasar dari suatu halaman web, menentukan elemen-elemen seperti judul, paragraf, tautan, gambar, dan banyak lagi.
+
+	HTML : Hypertext Markup Language adalah bahasa standar yang digunakan untuk membuat halaman web dengan memberikan struktur dasar dari suatu halaman web, menentukan elemen-elemen seperti judul, paragraf, tautan, gambar, dan banyak lagi
+
 	CSS : Cascading Style Sheets adalah bahasa pemrograman yang digunakan untuk mengontrol tata letak, tata gaya, dan penampilan visual dari elemen-elemen yang dijelaskan dalam dokumen HTML
+
 	JavaScript : Bahasa pemrograman tingkat tinggi yang umum digunakan untuk mengembangkan aplikasi web interaktif
+
 	Command Prompt : Program atau antarmuka baris perintah pada sistem operasi Windows
 
 	Lampiran B : Model Analisis
