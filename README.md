@@ -597,43 +597,52 @@ Kode .about .row mengizinkan elemen dengan kelas row di dalam elemen about untuk
 Kode CSS di atas mendefinisikan aturan tata letak untuk tampilan pada perangkat seluler dengan lebar layar maksimum 450 piksel. Pertama, aturan media query .@media (max-width: 450px) mengatur ukuran font pada elemen html menjadi 55% dari ukuran default, yang membantu menyesuaikan tata letak untuk layar seluler yang lebih kecil. Selanjutnya, pada bagian .menu, teks akan ditampilkan dalam warna putih. Ini mungkin digunakan untuk memastikan teks pada menu tetap terlihat dengan jelas pada latar belakang yang mungkin gelap.
 
 9. Penjelasan JS
+    
 Toggle class active untuk menu:
+
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/50a946d6-2baa-4126-9aba-35820509a331)
 
 Ketika elemen dengan id "hamburger-menu" diklik, maka sebuah class "active" ditoggle (dihapus jika ada atau ditambahkan jika tidak ada) pada elemen dengan class "navbar-nav". Digunakan untuk mengontrol tampilan menu yang muncul atau tersembunyi saat hamburger menu diklik.
  
 Ketika menu diklik:
+
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/749a73fa-dc05-44f3-af43-40b5fee77476)
 
 Ketika elemen dengan id "hamburger-menu" diklik, akan terjadi perubahan tampilan menu. Jika menu sedang terlihat, maka dengan mengkliknya akan menyembunyikan menu, dan sebaliknya, jika menu sedang tersembunyi, maka dengan mengkliknya akan menampilkan menu.
  
 Toggle class active untuk search form:
+
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/5d10f225-9b77-4acf-b714-08aa0adf0724)
 
 Ketika elemen dengan id "search" diklik, maka class "active" ditoggle pada elemen dengan class "search-form". Perintah tersebut mengatur tampilan form pencarian yang muncul atau tersembunyi saat tombol pencarian diklik. Selain itu, focus diberikan pada elemen dengan id "search-box" (kotak pencarian) dan event "e.preventDefault()" digunakan untuk mencegah perilaku default dari tombol pencarian.
  
 Toggle class active untuk shopping cart:
+
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/0b699c80-6e93-4a34-9b0e-5fd8446a86b3)
 
 Ketika elemen dengan id "shopping-cart" diklik, class "active" ditoggle pada elemen dengan class "shopping-cart". Ini mengendalikan tampilan keranjang belanja yang muncul atau tersembunyi saat tombol keranjang belanja diklik. Event "e.preventDefault()" juga digunakan untuk mencegah perilaku default dari tombol belanja.
  
 Klik di luar elemen:
+
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/3144e96b-156e-4ecc-83ca-9a7b9626850c)
 
 Merupakan perintah event listener yang menangani klik di luar elemen-elemen tertentu (menu, form pencarian, dan keranjang belanja). Jika pengguna mengklik di luar elemen-elemen ini, maka class "active" dihapus dari elemen terkait. Digunakan untuk menyembunyikan elemen-elemen tersebut saat pengguna mengklik di luar elemen tersebut.
  
 
 Modal Box:
+
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/7243af33-b48d-42d3-8f78-1d9379dd9161)
 
 Perintah ini berhubungan dengan tampilan modal (kotak dialog) yang muncul saat tombol "item-detail-button" diklik. Ketika salah satu dari tombol ini diklik, class "flex" diberikan pada elemen dengan id "item-detail-modal", sehingga modal muncul. Event "e.preventDefault()" digunakan untuk mencegah perilaku default dari tombol tersebut.
  
 Klik tombol close modal:
+
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/566c16cc-b74f-425a-9775-6cf1b22c3ba6)
 
 Ketika tombol dengan class "close-icon" di dalam modal diklik, modal ditutup dengan mengubah tampilan modal menjadi "none". Perintah ini digunakan untuk menutup modal ketika pengguna mengklik tombol close.
  
 Klik di luar modal:
+
 ![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/fb6a0b14-cfb3-49ac-9e44-d4b21b2a3f15)
 
 Perintah tersebut saat klik di luar modal. Jika pengguna mengklik di luar modal, maka modal ditutup dengan mengubah tampilan modal menjadi "none". Perintah ini juga memungkinkan pengguna menutup modal dengan mengklik di luar kotak modal.
