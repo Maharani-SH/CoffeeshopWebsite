@@ -304,59 +304,18 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
    	
 	Lampiran A : Glosarium
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	Lampiran B : Model Analisis
 	A.	Flowchart
 		 ![image](https://github.com/Maharani-SH/CoffeeshopWebsite/assets/124522757/aadc43e9-2c45-41cb-af62-6507f874cc1a)
-
-
-
-
-
-
-
-
 
 	B.	Use Case Diagram
 
 	 ![image](https://github.com/Maharani-SH/CoffeeshopWebsite/assets/124522757/cd03ca25-4b5e-49a1-8c9d-636223de480e)
 
-
-
 	C.	Data Flow Diagram 
 	-	Level 0
 		
  	![image](https://github.com/Maharani-SH/CoffeeshopWebsite/assets/124522757/0da1caed-8b8c-42fa-825f-877aec964c10)
-
-
-
-
-
-
--	Level 1
--	Level 2
--	Level 2.1
 
 Lampiran C : Daftar Fitur Yang Akan Ditentukan
 
