@@ -132,9 +132,9 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	
 	Bahan referensi yang digunakan dalam penyelesaian dokumen ini diambil dari beberapa buku seperti :
 
-- Software Engineering: A Practitioner’s Approach, 7th International edition, Roger Pressman, 2009
+	- Software Engineering: A Practitioner’s Approach, 7th International edition, Roger Pressman, 2009
 
-- IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998.
+	- IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998.
 
 5.	Deskripsi Keseluruhan
 
@@ -224,8 +224,8 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 	
 	Pada tampilan awal, pengguna akan dihadapkan pada tampilan Home yang didalamnya terlihat juga fitur dari web ini. Terdapat About Us, Our Menu, dan Contact. Terdapat juga fitur untuk memesan produk dari Kopi Asmara dengan meng-klik Order Now.
 
-	![pic1](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/0be94c5f-c51e-466e-97cc-e4ea9ef8ed02)
-	
+	![Screenshot (1405)](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124477151/7e84ef10-a2a9-453d-8f28-c5e2e88bf1fa)
+
 	B. Tampilan About Us
 	
 	About Us ini menampilkan informasi mengenai alasan memilih kedai Kopi Asmara.
