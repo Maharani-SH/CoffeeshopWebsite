@@ -281,6 +281,23 @@ body {
   margin-top: 1rem auto 1rem;
 }
 
+.ourmenu .row .menu-card .buy {
+  display: inline-block;
+  background-color: #1082a8; 
+  color: #fff; 
+  padding: 0.2rem 1rem; 
+  text-decoration: none; 
+  border-radius: 25px; 
+  transition: background-color 0.3s ease, transform 0.3s ease; 
+  border: 2px solid #1082a8; 
+}
+
+.ourmenu .row .menu-card .buy:hover {
+  background-color: #fff; 
+  color: #1082a8; 
+  transform: scale(1.05); 
+}
+
 /* Footer */
 footer{
   background-color: #010101;
