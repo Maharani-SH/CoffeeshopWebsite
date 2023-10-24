@@ -20,7 +20,7 @@ body {
   font-family: "Poppins", sans-serif;
   background-color: var(--bg);
   color: #fff;
-  min-height: 2200px;
+  min-height: 600px;
 }
 
 /* Navbar */
@@ -68,7 +68,7 @@ body {
   transition: 0.2s linear;
 }
 
-.navbar .navbar-nav a::hover::after {
+.navbar .navbar-nav a:hover::after {
   transform: scaleX(0.5);
 }
 
@@ -374,12 +374,12 @@ footer{
     font-size: 62.5%;
   }
 
-  #menu {
+  #hamburger-menu {
     display: inline-block;
   }
 
   .navbar .navbar-nav {
-    display: absolute;
+    position: absolute;
     top: 100%;
     right: -100%;
     background-color: #fff;
