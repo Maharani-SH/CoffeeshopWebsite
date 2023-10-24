@@ -2,9 +2,11 @@
 
 <div align="center">
 	
-<h3>Spesifikasi Kebutuhan Perangkat Lunak</h3>
-<h2>Untuk</h2>
-<h1>Website E-Commerce Coffee Shop</h1>
+## Spesifikasi Kebutuhan Perangkat Lunak
+## Untuk
+## Website E-Commerce Coffee Shop
+
+![image](https://github.com/22091397037MaharaniSekarHapsari/CoffeeshopWebsite/assets/124522757/8627c08c-01dc-46bc-989e-773f8a43afaf)
 
 
 
@@ -15,6 +17,7 @@ Intan Rachmalia Dewi (22091397021)
 Frida Nur Cahyani (22091397036) 
 
 Maharani Sekar Hapsari (22091397037)
+
 
 
 D4 Manajemen Informatika
@@ -106,9 +109,11 @@ Optimisasi Website	-	Perbaikan CSS Pada Website	1.0.1
 	1.1	Tujuan
 
 	Tujuan pembuatan website Coffee Shop antara lain :
+
 	1. Memungkinkan pembeli untuk mengakses informasi dengan mudah mengenai kafe, seperti menu, lokasi, dan jam operasional tanpa harus datang ke kafe.
- 	   1. Memungkinkan kafe untuk berbagi promosi, diskon, menu baru secara lebih cepat yang dapat meningkatkan minat dan partisipasi pembeli.			1.	Meningkatkan jangkauan pasar karena website dapat dilihat oleh pembeli dari berbagai tempat tidak hanya oleh orang yang berada di sekitar kafe.
-	1.	Memudahkan pemilik cafe dalam memahami preferensi pembeli dan mengoptimalkan pengalaman pengguna karena adanya web dapat diketahui jumlah dan perilaku pembeli. Informasi ini dapat digunakan untuk meningkatkan strategi pemasaran dan pengelolaan kafe.
+	1. Memungkinkan kafe untuk berbagi promosi, diskon, menu baru secara lebih cepat yang dapat meningkatkan minat dan partisipasi pembeli.
+	1. Meningkatkan jangkauan pasar karena website dapat dilihat oleh pembeli dari berbagai tempat tidak hanya oleh orang yang berada di sekitar kafe.
+	1. Memudahkan pemilik cafe dalam memahami preferensi pembeli dan mengoptimalkan pengalaman pengguna karena adanya web dapat diketahui jumlah dan perilaku pembeli. Informasi ini dapat digunakan untuk meningkatkan strategi pemasaran dan pengelolaan kafe.
 
 	1.2	Konvensi Dokumen
 	
@@ -129,7 +134,7 @@ Pada jangka panjang, website ini mungkin akan dikembangkan lebih lanjut untuk me
 Software Engineering: A Practitioner’s Approach, 7th International edition, Roger Pressman, 2009
 IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Specifications. IEEE Computer Society, 1998.
 
-3.	Deskripsi Keseluruhan
+5.	Deskripsi Keseluruhan
 
 	2.1	Perspektif Produk
 	
@@ -150,19 +155,19 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 	Website Coffee Shop memiliki beberapa teknologi yang dipakai untuk mengembangkan website ini, antara lain :
 	Bahasa Pemrograman:
 
-		1. CSS
+	1. CSS
     
-		3. Javascript
+	3. Javascript
 
-		4. HTML : HyperText Markup Language
+	4. HTML : HyperText Markup Language
     
 	Software Pengembangan:
 
-		1. VSCode : Software Pemrograman
+	1. VSCode : Software Pemrograman
   	
-		2. Command Prompt
+	2. Command Prompt
 
-  		3. Google Chrome
+ 	3. Google Chrome
 
 
 	2.5	Kendala Desain dan Implementasi
@@ -170,36 +175,34 @@ IEEE. IEEE Std 830-1998 IEEE Recommended Practice for Software Requirements Spec
 	
 	2.6	Dokumentasi Pengguna
 	
-		SRS ini dibagi menjadi beberapa bagian, yaitu :
-		1. Pendahuluan yang berisi gambaran umum dari seluruh dokumen SRS. Pendahuluan
-	
- 		SRS berisikan bagian-bagian berikut:
+	SRS ini dibagi menjadi beberapa bagian, yaitu :
 
-			- Tujuan Penulisan Dokumen
-			
-		 	- Konvensi Dokumen
-			
-		 	- Pembaca yang Dituju
-			
-		 	- Lingkup Produk
-			
-			- Referensi
+	1. Pendahuluan yang berisi gambaran umum dari seluruh dokumen SRS. Pendahuluan SRS berisikan bagian-bagian berikut:
+		- Tujuan Penulisan Dokumen
+		- Konvensi Dokumen
+	 	- Pembaca yang Dituju
+	 	- Lingkup Produk
+		- Referensi
 
-		3. Deskripsi umum perangkat lunak yang berisi penjelasan perangkat lunak secara umum. Dijelaskan melalui deskripsi umum sistem, fungsi produk, karakteristik pengguna, batasan, lingkungan operasi.
-		4. Kebutuhan Antarmuka Eksternal merincikan deskripsi masukan dan keluaran perangkat lunak yang dispesifikasikan. Ada berbagai macam antarmuka eksternal, antara lain : antarmuka pengguna, antarmuka perangkat keras, antarmuka perangkat keras, antarmuka komunikasi.
-		5. Fungsi Produk berisi fungsi utama dari perangkat lunak.
-		6. Kebutuhan Non Fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat lunak
+	1. Deskripsi umum perangkat lunak yang berisi penjelasan perangkat lunak secara umum. Dijelaskan melalui deskripsi umum sistem, fungsi produk, karakteristik pengguna, batasan, lingkungan operasi.
+    
+	1. Kebutuhan Antarmuka Eksternal merincikan deskripsi masukan dan keluaran perangkat lunak yang dispesifikasikan. Ada berbagai macam antarmuka eksternal, antara lain : antarmuka pengguna, antarmuka perangkat keras, antarmuka perangkat keras, antarmuka komunikasi.
+    
+	1. Fungsi Produk berisi fungsi utama dari perangkat lunak.
+    
+	1. Kebutuhan Non Fungsional berisi bagian yang menspesifikasikan ukuran kuantitatif yang harus dipenuhi perangkat lunak
 	
 	
 	2.7	Asumsi dan Dependensi
-	
+  	
 	Asumsi - asumsi pada Website Coffe Shop adalah sebagai berikut:
+	
+ 	a. Admin dapat mengelola dan melihat sistem secara keseluruhan termasuk mengelola administrasi dan manajemen website coffe shop tidak memiliki wewenang untuk mengubah data data pemesanan dan pembayaran.
 
-		a. Admin dapat mengelola dan melihat sistem secara keseluruhan termasuk mengelola administrasi dan manajemen website coffe shop tidak memiliki wewenang untuk mengubah data data pemesanan dan pembayaran.
-		b. Customer memiliki wewenang untuk melakukan pemesanan secara online, mengatur pemesanan, mengubah lokasi, verifikasi pembayaran, memantau pesanan dan memberikan ulasan setelah transaksi. 
+	b. Customer memiliki wewenang untuk melakukan pemesanan secara online, mengatur pemesanan, mengubah lokasi, verifikasi pembayaran, memantau pesanan dan memberikan ulasan setelah transaksi. 
 
 
-4.	Persyaratan Antarmuka
+7.	Persyaratan Antarmuka
 
 	3.1	Antarmuka Pengguna
 	
