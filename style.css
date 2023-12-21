@@ -81,7 +81,7 @@ body {
   color: var(--primary);
 }
 
-#hamburger-menu{
+#hamburger-menu {
   display: none;
 }
 
@@ -283,37 +283,37 @@ body {
 
 .ourmenu .row .menu-card .buy {
   display: inline-block;
-  background-color: #1082a8; 
-  color: #fff; 
-  padding: 0.2rem 1rem; 
-  text-decoration: none; 
-  border-radius: 25px; 
-  transition: background-color 0.3s ease, transform 0.3s ease; 
-  border: 2px solid #1082a8; 
+  background-color: #1082a8;
+  color: #fff;
+  padding: 0.2rem 1rem;
+  text-decoration: none;
+  border-radius: 25px;
+  transition: background-color 0.3s ease, transform 0.3s ease;
+  border: 2px solid #1082a8;
 }
 
 .ourmenu .row .menu-card .buy:hover {
-  background-color: #fff; 
-  color: #1082a8; 
-  transform: scale(1.05); 
+  background-color: #fff;
+  color: #1082a8;
+  transform: scale(1.05);
 }
 
 /* Footer */
-footer{
+footer {
   background-color: #010101;
 }
 
-.footerContainer{
+.footerContainer {
   width: 100%;
   padding: 70px 30px 20px;
 }
 
-.socialicons{
+.socialicons {
   display: flex;
   justify-content: center;
 }
 
-.socialicons a{
+.socialicons a {
   text-decoration: none;
   padding: 10px;
   background-color: #fff;
@@ -321,33 +321,33 @@ footer{
   border-radius: 50%;
 }
 
-.socialicons a i{
+.socialicons a i {
   font-size: 2em;
   color: #010101;
   opacity: 0.9;
 }
 
 /* Hover Effect */
-.socialicons a:hover{
+.socialicons a:hover {
   background-color: #1082a8;
   transition: 0.5s;
 }
 
-.socialicons a:hover a{
+.socialicons a:hover a {
   color: #fff;
   transition: 0.5s;
 }
 
-.footerNav{
+.footerNav {
   margin: 30px 0;
 }
 
-.footerNav ul{
+.footerNav ul {
   display: flex;
   justify-content: center;
 }
 
-.footerNav ul a{
+.footerNav ul a {
   color: white;
   margin: 20px;
   text-decoration: none;
@@ -356,21 +356,21 @@ footer{
   transition: 0.5s;
 }
 
-.footerNav ul a:hover{
+.footerNav ul a:hover {
   opacity: 1;
 }
 
-.footerbottom{
+.footerbottom {
   background-color: #010101;
   padding: 20px;
   text-align: center;
 }
 
-.footerbottom p{
+.footerbottom p {
   color: #fff;
 }
 
-.designer{
+.designer {
   opacity: 0.7;
   text-transform: uppercase;
   letter-spacing: 1;
